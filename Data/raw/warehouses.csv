@@ -1,0 +1,51 @@
+WarehouseID,WarehouseName,Country,City,Capacity,WarehouseType
+WH001,Lake Wendybury Distribution Center,United States,Priceside,128725,Regional Distribution Center
+WH002,Victormouth Distribution Center,Singapore,North Matthewmouth,74648,Regional Distribution Center
+WH003,South Davidhaven Distribution Center,Singapore,Bentleyside,82611,Manufacturing Warehouse
+WH004,Lake Beth Distribution Center,United States,North Jillfort,151886,Regional Distribution Center
+WH005,South Rebeccaton Distribution Center,China,Lake Deborah,131880,Manufacturing Warehouse
+WH006,East Cynthiaport Distribution Center,UAE,South Cherylshire,58283,Regional Distribution Center
+WH007,Port Lisaville Distribution Center,Singapore,Larsonbury,200239,Fulfilment Center
+WH008,Port Jamesmouth Distribution Center,Germany,Nguyenshire,129798,Regional Distribution Center
+WH009,West Mary Distribution Center,UAE,Port Brandon,157051,Regional Distribution Center
+WH010,West Bryan Distribution Center,India,Donaldchester,82133,Fulfilment Center
+WH011,Lake Mitchell Distribution Center,Australia,South John,216769,Regional Distribution Center
+WH012,East Craigfurt Distribution Center,United States,North Nichole,94852,Manufacturing Warehouse
+WH013,North Adrianland Distribution Center,UAE,Robertfort,158432,Fulfilment Center
+WH014,East Douglas Distribution Center,India,Alexandrachester,34816,Manufacturing Warehouse
+WH015,East Cheryl Distribution Center,UAE,New Hectorfort,123160,Manufacturing Warehouse
+WH016,Lake Margaretport Distribution Center,Germany,Robertside,161400,Manufacturing Warehouse
+WH017,East David Distribution Center,United States,New Michaelside,194047,Manufacturing Warehouse
+WH018,South Kaylee Distribution Center,United Kingdom,West Brian,243610,Regional Distribution Center
+WH019,Port Edwardfort Distribution Center,Australia,Thompsonton,103451,Central Warehouse
+WH020,Lake Michaelborough Distribution Center,India,Kingmouth,119597,Fulfilment Center
+WH021,North Joyside Distribution Center,India,East Kristen,53014,Fulfilment Center
+WH022,Robertsonland Distribution Center,Australia,Lake Sean,207732,Central Warehouse
+WH023,Robertmouth Distribution Center,United Kingdom,Port Daniel,93009,Central Warehouse
+WH024,North Joel Distribution Center,United Kingdom,Kanefurt,111889,Manufacturing Warehouse
+WH025,North Thomas Distribution Center,Brazil,Brownchester,172143,Central Warehouse
+WH026,East Sarah Distribution Center,Germany,Thompsonstad,201041,Central Warehouse
+WH027,South Jennifer Distribution Center,Netherlands,Theresaborough,171912,Central Warehouse
+WH028,Davidshire Distribution Center,India,West Derekmouth,111002,Central Warehouse
+WH029,Barnesmouth Distribution Center,United Kingdom,West Cassandra,231863,Central Warehouse
+WH030,New Tara Distribution Center,Netherlands,North Robert,71431,Manufacturing Warehouse
+WH031,Atkinsborough Distribution Center,China,Hoodview,176103,Regional Distribution Center
+WH032,Lake Ronniebury Distribution Center,India,West Ryan,113256,Central Warehouse
+WH033,New Sophia Distribution Center,United States,South Tinaton,230654,Manufacturing Warehouse
+WH034,Quinnhaven Distribution Center,United Kingdom,South Amandafort,137807,Manufacturing Warehouse
+WH035,South Tylerland Distribution Center,Brazil,Lake Jessicaborough,225457,Manufacturing Warehouse
+WH036,West Kenneth Distribution Center,India,North Timothyport,234238,Central Warehouse
+WH037,Lake Stephen Distribution Center,China,South Stevenberg,64483,Central Warehouse
+WH038,Lopezstad Distribution Center,United States,Padillatown,229871,Manufacturing Warehouse
+WH039,South Patriciamouth Distribution Center,Netherlands,West Ronaldview,178646,Central Warehouse
+WH040,Port Gail Distribution Center,Netherlands,Jillton,90865,Central Warehouse
+WH041,Pamelaville Distribution Center,United States,Diazton,124178,Regional Distribution Center
+WH042,Michaelside Distribution Center,Brazil,New Jennaborough,65150,Fulfilment Center
+WH043,West John Distribution Center,UAE,Lake Timothyshire,78228,Fulfilment Center
+WH044,Port Julie Distribution Center,Brazil,West Michael,154216,Central Warehouse
+WH045,Wesleychester Distribution Center,India,Brianstad,80661,Central Warehouse
+WH046,Shaunhaven Distribution Center,United States,South Jenniferside,137109,Regional Distribution Center
+WH047,Shannonstad Distribution Center,Singapore,East Patriciamouth,138277,Central Warehouse
+WH048,North Peterburgh Distribution Center,Germany,Susanland,228646,Central Warehouse
+WH049,East Joshuaberg Distribution Center,China,Hernandezborough,76419,Fulfilment Center
+WH050,West Robertside Distribution Center,Netherlands,South Michael,158435,Manufacturing Warehouse

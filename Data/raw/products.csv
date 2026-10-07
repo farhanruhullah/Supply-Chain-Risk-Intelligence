@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,StandardPrice,ReorderLevel,SafetyStockLevel,LeadTimeDays
+PRD00001,Compressor RW-833,Industrial Equipment,Compressor,1616.56,2193.43,68,45,27
+PRD00002,Shaft CH-918,Mechanical Components,Shaft,893.46,1379.44,390,346,41
+PRD00003,Circuit Board HD-519,Electronic Components,Circuit Board,1516.41,1829.93,61,47,45
+PRD00004,Circuit Board KI-883,Electronic Components,Circuit Board,258.95,302.66,178,177,45
+PRD00005,Switchgear HC-225,Electrical Components,Switchgear,618.66,725.26,324,53,22
+PRD00006,Polymer FF-139,Raw Materials,Polymer,470.48,577.89,349,178,11
+PRD00007,Packaging Film DI-870,Packaging,Packaging Film,437.57,657.91,67,51,45
+PRD00008,Circuit Breaker KD-867,Electrical Components,Circuit Breaker,205.18,274.13,205,14,26
+PRD00009,Gear UB-874,Mechanical Components,Gear,1028.94,1586.7,129,53,34
+PRD00010,Controller VN-640,Electronic Components,Controller,284.54,363.94,90,29,7
+PRD00011,Bearing BW-910,Mechanical Components,Bearing,2423.83,3610.24,279,279,5
+PRD00012,Protective Foam EE-180,Packaging,Protective Foam,2043.59,2485.12,468,402,42
+PRD00013,Relay LX-046,Electronic Components,Relay,431.36,604.29,212,49,13
+PRD00014,Relay YC-265,Electronic Components,Relay,2323.79,3138.38,434,94,31
+PRD00015,Generator RQ-661,Industrial Equipment,Generator,1431.17,1754.6,206,183,18
+PRD00016,Circuit Breaker HL-825,Electrical Components,Circuit Breaker,1924.88,2279.38,165,124,17
+PRD00017,Aluminium IU-868,Raw Materials,Aluminium,812.58,1049.4,178,130,15
+PRD00018,Coupling TD-300,Mechanical Components,Coupling,1271.49,1537.34,245,128,21
+PRD00019,Circuit Breaker YO-868,Electrical Components,Circuit Breaker,291.52,400.78,290,224,13
+PRD00020,Relay JR-375,Electronic Components,Relay,725.13,987.31,90,42,6
+PRD00021,Container ZQ-310,Packaging,Container,390.13,513.61,467,200,38
+PRD00022,Hydraulic System PN-690,Industrial Equipment,Hydraulic System,1333.81,1498.3,455,73,21
+PRD00023,Pump CC-119,Industrial Equipment,Pump,844.83,980.41,159,125,35
+PRD00024,Power Module VC-903,Electronic Components,Power Module,163.12,252.1,66,24,31
+PRD00025,Bearing IN-673,Mechanical Components,Bearing,809.27,1185.13,232,23,28
+PRD00026,Copper SO-028,Raw Materials,Copper,640.33,900.74,140,108,8
+PRD00027,Gear MX-959,Mechanical Components,Gear,1901.77,2601.69,34,20,9
+PRD00028,Protective Foam JQ-534,Packaging,Protective Foam,1181.58,1518.72,425,84,11
+PRD00029,Compressor TR-836,Industrial Equipment,Compressor,875.43,1329.15,489,434,33
+PRD00030,Pallet VL-089,Packaging,Pallet,2077.4,3187.28,408,371,33
+PRD00031,Circuit Breaker DW-687,Electrical Components,Circuit Breaker,315.12,450.27,22,11,4
+PRD00032,Gear SA-685,Mechanical Components,Gear,2346.16,2772.12,447,86,38
+PRD00033,Packaging Film YL-624,Packaging,Packaging Film,170.91,245.0,290,226,10
+PRD00034,Gear OT-873,Mechanical Components,Gear,1438.31,2127.01,174,41,6
+PRD00035,Power Module JA-270,Electronic Components,Power Module,353.73,515.69,347,328,32
+PRD00036,Industrial Motor IY-688,Industrial Equipment,Industrial Motor,508.06,596.28,448,265,41
+PRD00037,Steel VP-343,Raw Materials,Steel,414.84,608.39,343,273,39
+PRD00038,Controller FI-175,Electronic Components,Controller,1664.67,2222.97,169,119,3
+PRD00039,Copper YR-304,Raw Materials,Copper,900.28,1345.68,143,116,14
+PRD00040,Industrial Box EM-990,Packaging,Industrial Box,984.15,1444.21,288,194,7
+PRD00041,Industrial Rubber EN-983,Raw Materials,Industrial Rubber,1100.64,1397.4,279,269,38
+PRD00042,Generator NM-540,Industrial Equipment,Generator,1159.39,1432.57,467,250,5
+PRD00043,Container SM-173,Packaging,Container,1870.29,2480.42,211,74,4
+PRD00044,Bearing JU-363,Mechanical Components,Bearing,584.37,879.36,196,71,45
+PRD00045,Industrial Box IP-467,Packaging,Industrial Box,962.81,1294.59,415,307,24
+PRD00046,Industrial Sensor XG-544,Electronic Components,Industrial Sensor,2266.65,3130.03,200,149,24
+PRD00047,Pallet ZU-771,Packaging,Pallet,296.66,451.79,445,408,32
+PRD00048,Container XU-753,Packaging,Container,1571.13,1965.02,343,103,11
+PRD00049,Generator OV-609,Industrial Equipment,Generator,352.48,513.67,38,19,15
+PRD00050,Pump JL-204,Industrial Equipment,Pump,1552.08,2079.88,473,31,23
+PRD00051,Coupling JM-964,Mechanical Components,Coupling,2235.26,3252.01,223,218,37
+PRD00052,Cable KP-536,Electrical Components,Cable,383.43,475.56,38,34,44
+PRD00053,Circuit Board QW-785,Electronic Components,Circuit Board,624.98,896.71,202,22,44
+PRD00054,Shaft KU-777,Mechanical Components,Shaft,88.66,120.26,83,57,30
+PRD00055,Connector UI-522,Electrical Components,Connector,1907.33,2850.59,478,207,24
+PRD00056,Power Module PD-728,Electronic Components,Power Module,858.49,1261.61,374,264,26
+PRD00057,Copper QD-801,Raw Materials,Copper,281.03,416.18,430,52,30
+PRD00058,Generator OO-062,Industrial Equipment,Generator,323.08,413.15,328,102,37
+PRD00059,Shaft NG-120,Mechanical Components,Shaft,1994.25,2328.21,72,15,23
+PRD00060,Protective Foam NO-750,Packaging,Protective Foam,576.98,822.2,176,124,41
+PRD00061,Container BA-977,Packaging,Container,1801.49,2501.4,105,98,31
+PRD00062,Valve AB-886,Mechanical Components,Valve,1736.4,2334.11,41,32,42
+PRD00063,Cable SB-848,Electrical Components,Cable,633.24,795.07,347,39,7
+PRD00064,Container GG-862,Packaging,Container,458.09,691.17,206,141,13
+PRD00065,Pump MN-823,Industrial Equipment,Pump,1460.56,1870.08,454,321,31
+PRD00066,Pump RY-845,Industrial Equipment,Pump,1157.7,1766.97,54,25,44
+PRD00067,Shaft ZD-615,Mechanical Components,Shaft,387.61,528.62,216,155,5
+PRD00068,Aluminium TR-933,Raw Materials,Aluminium,1267.19,1742.58,367,240,26
+PRD00069,Valve ZY-101,Mechanical Components,Valve,50.18,74.89,410,49,39
+PRD00070,Relay DO-687,Electronic Components,Relay,2330.64,3156.41,207,111,23
+PRD00071,Protective Foam FB-021,Packaging,Protective Foam,1743.14,2641.07,147,39,4
+PRD00072,Pallet HC-591,Packaging,Pallet,1769.56,2067.98,275,275,27
+PRD00073,Steel ER-339,Raw Materials,Steel,1442.84,1981.05,154,76,31
+PRD00074,Relay IK-014,Electronic Components,Relay,1063.21,1521.88,166,135,15
+PRD00075,Pump BN-025,Industrial Equipment,Pump,2336.25,3542.94,456,47,31
+PRD00076,Power Module ET-926,Electronic Components,Power Module,1129.84,1300.4,64,61,23
+PRD00077,Protective Foam KY-293,Packaging,Protective Foam,2462.18,3637.88,383,43,38
+PRD00078,Copper WV-856,Raw Materials,Copper,316.03,478.59,476,163,13
+PRD00079,Pallet VW-218,Packaging,Pallet,2175.39,2900.83,426,195,35
+PRD00080,Industrial Sensor OE-016,Electronic Components,Industrial Sensor,1480.23,1894.03,122,111,11
+PRD00081,Power Module MZ-599,Electronic Components,Power Module,141.63,177.16,33,21,38
+PRD00082,Copper YC-504,Raw Materials,Copper,2008.12,2213.12,259,215,38
+PRD00083,Relay JY-735,Electronic Components,Relay,837.08,1070.77,472,54,7
+PRD00084,Valve QY-629,Mechanical Components,Valve,1345.8,2037.45,387,378,33
+PRD00085,Polymer ZP-194,Raw Materials,Polymer,869.13,1091.74,413,219,39
+PRD00086,Pump JY-114,Industrial Equipment,Pump,1845.07,2405.05,182,174,7
+PRD00087,Connector XG-265,Electrical Components,Connector,565.39,737.04,368,274,25
+PRD00088,Relay CX-104,Electronic Components,Relay,356.44,420.38,347,310,14
+PRD00089,Power Module FL-412,Electronic Components,Power Module,1248.43,1608.62,277,38,10
+PRD00090,Aluminium JG-678,Raw Materials,Aluminium,2287.54,2889.34,175,52,13
+PRD00091,Gear FW-610,Mechanical Components,Gear,1453.57,2012.5,197,142,21
+PRD00092,Compressor MY-819,Industrial Equipment,Compressor,37.67,52.68,120,91,38
+PRD00093,Gear SA-560,Mechanical Components,Gear,449.2,688.39,340,165,42
+PRD00094,Steel PK-618,Raw Materials,Steel,375.91,483.64,277,96,40
+PRD00095,Aluminium KI-826,Raw Materials,Aluminium,217.95,337.52,107,94,42
+PRD00096,Packaging Film FJ-444,Packaging,Packaging Film,1257.98,1720.82,192,154,5
+PRD00097,Industrial Motor RA-126,Industrial Equipment,Industrial Motor,172.36,247.76,43,26,44
+PRD00098,Relay XQ-471,Electronic Components,Relay,528.71,795.25,233,168,43
+PRD00099,Generator NM-379,Industrial Equipment,Generator,516.82,612.85,475,331,37
+PRD00100,Shaft TA-712,Mechanical Components,Shaft,96.19,126.24,267,135,28
+PRD00101,Valve YZ-659,Mechanical Components,Valve,1414.28,1597.53,57,54,6
+PRD00102,Power Module BP-575,Electronic Components,Power Module,1939.94,2529.64,232,133,32
+PRD00103,Circuit Board UM-924,Electronic Components,Circuit Board,1313.35,1705.18,330,83,23
+PRD00104,Protective Foam LZ-375,Packaging,Protective Foam,1004.9,1358.46,395,186,28
+PRD00105,Circuit Board KY-547,Electronic Components,Circuit Board,392.32,463.67,283,64,23
+PRD00106,Power Module RY-356,Electronic Components,Power Module,2155.16,3288.24,82,44,31
+PRD00107,Controller KM-651,Electronic Components,Controller,936.41,1144.14,69,13,21
+PRD00108,Circuit Breaker RX-982,Electrical Components,Circuit Breaker,1611.78,2069.41,234,73,13
+PRD00109,Coupling TN-807,Mechanical Components,Coupling,68.34,79.98,389,170,15
+PRD00110,Power Module YY-741,Electronic Components,Power Module,1791.35,2501.65,283,249,34
+PRD00111,Valve OT-672,Mechanical Components,Valve,72.6,87.11,31,12,28
+PRD00112,Polymer TB-342,Raw Materials,Polymer,581.53,815.51,143,65,40
+PRD00113,Bearing ME-617,Mechanical Components,Bearing,54.18,62.14,45,28,34
+PRD00114,Polymer GS-968,Raw Materials,Polymer,2000.79,2361.62,166,147,3
+PRD00115,Generator YX-680,Industrial Equipment,Generator,1633.6,1972.05,88,43,26
+PRD00116,Cable GX-891,Electrical Components,Cable,253.11,306.12,43,35,6
+PRD00117,Industrial Rubber PN-352,Raw Materials,Industrial Rubber,1807.06,2683.6,119,56,38
+PRD00118,Bearing WV-096,Mechanical Components,Bearing,2076.4,2655.16,217,139,31
+PRD00119,Copper GQ-610,Raw Materials,Copper,1671.87,1993.28,442,329,42
+PRD00120,Pump JL-388,Industrial Equipment,Pump,736.4,1107.07,69,35,26
+PRD00121,Coupling XZ-937,Mechanical Components,Coupling,37.44,42.62,500,197,12
+PRD00122,Relay JW-798,Electronic Components,Relay,523.68,582.3,280,215,35
+PRD00123,Industrial Motor SA-071,Industrial Equipment,Industrial Motor,457.68,623.53,39,14,24
+PRD00124,Circuit Breaker WT-112,Electrical Components,Circuit Breaker,1056.45,1586.47,253,48,41
+PRD00125,Aluminium HE-573,Raw Materials,Aluminium,2044.52,2563.46,187,166,23
+PRD00126,Power Module CU-571,Electronic Components,Power Module,652.26,828.93,335,163,40
+PRD00127,Coupling TC-751,Mechanical Components,Coupling,1477.79,1803.83,444,270,37
+PRD00128,Circuit Breaker PG-105,Electrical Components,Circuit Breaker,1562.25,2006.3,173,131,4
+PRD00129,Shaft LJ-238,Mechanical Components,Shaft,1382.36,1791.89,364,66,29
+PRD00130,Copper BD-258,Raw Materials,Copper,739.69,1129.36,427,381,43
+PRD00131,Hydraulic System LO-362,Industrial Equipment,Hydraulic System,1910.2,2221.66,262,77,44
+PRD00132,Industrial Rubber VN-660,Raw Materials,Industrial Rubber,2171.83,2865.39,136,102,6
+PRD00133,Polymer BY-379,Raw Materials,Polymer,2236.91,3265.74,107,77,43
+PRD00134,Packaging Film RW-033,Packaging,Packaging Film,1065.91,1183.28,416,204,12
+PRD00135,Pallet ZI-191,Packaging,Pallet,675.35,907.49,36,28,10
+PRD00136,Industrial Sensor MD-255,Electronic Components,Industrial Sensor,1585.53,1928.08,245,90,29
+PRD00137,Power Module HO-147,Electronic Components,Power Module,352.69,520.47,373,114,29
+PRD00138,Industrial Rubber NZ-596,Raw Materials,Industrial Rubber,2461.08,3289.38,491,251,6
+PRD00139,Pallet WD-915,Packaging,Pallet,433.34,529.77,285,116,38
+PRD00140,Valve NL-924,Mechanical Components,Valve,50.88,76.9,289,202,23
+PRD00141,Power Module HP-125,Electronic Components,Power Module,298.79,406.18,487,282,24
+PRD00142,Copper XS-412,Raw Materials,Copper,688.77,929.41,366,358,44
+PRD00143,Protective Foam AM-286,Packaging,Protective Foam,1630.29,2402.04,332,257,15
+PRD00144,Circuit Board BL-296,Electronic Components,Circuit Board,520.02,574.6,305,162,17
+PRD00145,Shaft JK-782,Mechanical Components,Shaft,346.53,521.53,380,116,34
+PRD00146,Valve LU-742,Mechanical Components,Valve,2185.36,2991.4,198,153,20
+PRD00147,Bearing WA-790,Mechanical Components,Bearing,1503.29,2103.5,313,288,27
+PRD00148,Cable YJ-723,Electrical Components,Cable,442.55,668.91,415,84,21
+PRD00149,Compressor RF-876,Industrial Equipment,Compressor,1049.83,1335.82,385,50,25
+PRD00150,Cable KF-677,Electrical Components,Cable,1299.7,1457.14,402,255,16
+PRD00151,Relay SC-903,Electronic Components,Relay,419.88,601.32,158,153,20
+PRD00152,Industrial Sensor SK-438,Electronic Components,Industrial Sensor,211.58,290.16,335,310,18
+PRD00153,Industrial Sensor JG-797,Electronic Components,Industrial Sensor,617.15,786.98,362,281,17
+PRD00154,Pallet RX-191,Packaging,Pallet,725.29,913.9,46,16,29
+PRD00155,Valve WC-858,Mechanical Components,Valve,1799.02,2219.46,71,53,11
+PRD00156,Hydraulic System BG-783,Industrial Equipment,Hydraulic System,1418.18,1863.8,495,90,29
+PRD00157,Container CQ-340,Packaging,Container,1660.86,2527.12,264,176,15
+PRD00158,Shaft HX-517,Mechanical Components,Shaft,1832.77,2193.32,166,25,8
+PRD00159,Packaging Film SW-339,Packaging,Packaging Film,82.8,100.85,138,19,14
+PRD00160,Switchgear NI-962,Electrical Components,Switchgear,1489.72,1673.17,498,480,5
+PRD00161,Connector KW-330,Electrical Components,Connector,1243.43,1701.73,115,105,21
+PRD00162,Industrial Motor IK-849,Industrial Equipment,Industrial Motor,838.94,1213.87,172,155,41
+PRD00163,Compressor KR-544,Industrial Equipment,Compressor,270.96,307.22,165,126,44
+PRD00164,Industrial Rubber WY-812,Raw Materials,Industrial Rubber,1821.83,2410.23,272,78,35
+PRD00165,Cable PI-604,Electrical Components,Cable,1722.56,2231.87,118,113,10
+PRD00166,Gear TU-232,Mechanical Components,Gear,619.77,910.19,394,244,44
+PRD00167,Gear JK-367,Mechanical Components,Gear,1999.54,2824.58,27,20,21
+PRD00168,Aluminium CE-466,Raw Materials,Aluminium,684.0,934.07,109,88,43
+PRD00169,Connector VR-168,Electrical Components,Connector,905.63,1033.52,283,177,8
+PRD00170,Transformer UL-577,Electrical Components,Transformer,2293.7,2664.29,114,27,33
+PRD00171,Gear OQ-017,Mechanical Components,Gear,2375.84,3090.26,23,14,27
+PRD00172,Power Module ZN-518,Electronic Components,Power Module,466.91,627.46,405,146,24
+PRD00173,Coupling RU-637,Mechanical Components,Coupling,2183.0,3120.6,390,303,3
+PRD00174,Shaft KI-458,Mechanical Components,Shaft,2017.37,2817.16,374,130,6
+PRD00175,Industrial Box RW-975,Packaging,Industrial Box,1732.23,2567.4,258,88,13
+PRD00176,Circuit Breaker OY-001,Electrical Components,Circuit Breaker,627.92,829.01,492,468,22
+PRD00177,Industrial Box KC-701,Packaging,Industrial Box,556.92,860.14,347,161,26
+PRD00178,Aluminium MS-706,Raw Materials,Aluminium,2360.43,2638.35,132,132,11
+PRD00179,Switchgear RF-242,Electrical Components,Switchgear,1765.41,2677.0,252,201,41
+PRD00180,Valve XQ-541,Mechanical Components,Valve,455.54,617.52,379,291,33
+PRD00181,Aluminium OT-206,Raw Materials,Aluminium,2289.14,2553.02,410,136,41
+PRD00182,Hydraulic System TG-361,Industrial Equipment,Hydraulic System,1745.06,2153.07,248,145,26
+PRD00183,Hydraulic System EI-037,Industrial Equipment,Hydraulic System,2311.37,3552.52,77,17,38
+PRD00184,Aluminium RC-938,Raw Materials,Aluminium,2360.94,3100.85,313,284,12
+PRD00185,Circuit Board HB-005,Electronic Components,Circuit Board,2155.8,3190.69,457,276,31
+PRD00186,Pump OY-271,Industrial Equipment,Pump,801.16,1180.12,387,308,34
+PRD00187,Hydraulic System UX-111,Industrial Equipment,Hydraulic System,97.33,133.18,248,217,6
+PRD00188,Switchgear XW-426,Electrical Components,Switchgear,578.87,668.16,282,222,32
+PRD00189,Steel HK-221,Raw Materials,Steel,197.0,278.43,306,246,22
+PRD00190,Industrial Box CW-092,Packaging,Industrial Box,852.99,1216.49,222,75,3
+PRD00191,Pallet NR-326,Packaging,Pallet,168.06,208.71,316,47,5
+PRD00192,Cable GI-731,Electrical Components,Cable,1351.03,1966.86,378,42,37
+PRD00193,Industrial Motor WB-196,Industrial Equipment,Industrial Motor,800.29,1105.72,498,251,5
+PRD00194,Valve RP-523,Mechanical Components,Valve,2215.51,3051.06,112,108,11
+PRD00195,Container MM-138,Packaging,Container,586.23,651.29,211,107,31
+PRD00196,Connector QT-940,Electrical Components,Connector,2175.9,2414.32,61,53,45
+PRD00197,Aluminium GM-389,Raw Materials,Aluminium,2187.38,2926.76,354,188,10
+PRD00198,Relay YY-640,Electronic Components,Relay,2347.97,3426.75,221,145,11
+PRD00199,Pallet HP-376,Packaging,Pallet,2494.85,3138.07,447,11,4
+PRD00200,Valve HA-791,Mechanical Components,Valve,1919.13,2458.15,364,288,30
+PRD00201,Polymer YK-552,Raw Materials,Polymer,1202.29,1662.02,441,127,18
+PRD00202,Cable RL-658,Electrical Components,Cable,2184.82,3370.82,99,45,15
+PRD00203,Industrial Box LE-710,Packaging,Industrial Box,1921.84,2475.32,36,35,45
+PRD00204,Circuit Breaker CD-043,Electrical Components,Circuit Breaker,1056.29,1512.51,412,18,18
+PRD00205,Industrial Sensor OT-684,Electronic Components,Industrial Sensor,600.75,690.69,71,48,5
+PRD00206,Circuit Breaker SZ-866,Electrical Components,Circuit Breaker,889.78,1093.77,364,34,18
+PRD00207,Industrial Box NJ-188,Packaging,Industrial Box,744.29,896.96,225,122,17
+PRD00208,Aluminium FG-414,Raw Materials,Aluminium,110.02,121.91,406,38,11
+PRD00209,Copper UZ-328,Raw Materials,Copper,2469.37,3191.66,139,91,39
+PRD00210,Copper SB-914,Raw Materials,Copper,963.89,1355.08,141,87,12
+PRD00211,Packaging Film FB-303,Packaging,Packaging Film,549.54,839.41,133,62,22
+PRD00212,Bearing MD-179,Mechanical Components,Bearing,1966.93,2242.76,305,99,43
+PRD00213,Container AT-421,Packaging,Container,1046.86,1565.69,304,263,6
+PRD00214,Valve FW-202,Mechanical Components,Valve,2362.11,3095.15,422,278,23
+PRD00215,Container KX-884,Packaging,Container,1535.46,1804.42,229,48,22
+PRD00216,Switchgear XB-241,Electrical Components,Switchgear,2477.97,2984.1,406,285,33
+PRD00217,Controller HE-564,Electronic Components,Controller,2357.12,3281.91,173,46,32
+PRD00218,Hydraulic System FD-491,Industrial Equipment,Hydraulic System,1521.3,2024.41,231,116,38
+PRD00219,Aluminium FK-850,Raw Materials,Aluminium,580.52,684.69,218,72,19
+PRD00220,Circuit Board QX-252,Electronic Components,Circuit Board,555.11,657.19,351,50,31
+PRD00221,Bearing OV-191,Mechanical Components,Bearing,1950.06,2452.31,294,107,6
+PRD00222,Valve AP-800,Mechanical Components,Valve,149.32,229.37,364,319,41
+PRD00223,Industrial Motor YJ-075,Industrial Equipment,Industrial Motor,2210.05,3353.73,116,112,40
+PRD00224,Packaging Film ZT-208,Packaging,Packaging Film,2487.3,2930.67,131,71,16
+PRD00225,Shaft PA-635,Mechanical Components,Shaft,993.62,1432.01,485,17,16
+PRD00226,Industrial Sensor KX-541,Electronic Components,Industrial Sensor,1741.57,2036.34,402,396,33
+PRD00227,Relay LO-180,Electronic Components,Relay,2040.5,2450.64,380,114,28
+PRD00228,Relay ED-806,Electronic Components,Relay,563.42,755.91,184,82,27
+PRD00229,Circuit Breaker FJ-445,Electrical Components,Circuit Breaker,1484.39,2020.31,352,193,22
+PRD00230,Shaft MS-705,Mechanical Components,Shaft,233.26,348.69,282,264,32
+PRD00231,Generator PD-949,Industrial Equipment,Generator,667.67,773.35,409,173,16
+PRD00232,Shaft XX-597,Mechanical Components,Shaft,2222.43,3400.41,231,21,39
+PRD00233,Controller JA-383,Electronic Components,Controller,2156.01,3157.01,28,18,38
+PRD00234,Industrial Rubber IW-603,Raw Materials,Industrial Rubber,1639.83,2210.3,388,223,21
+PRD00235,Controller WQ-050,Electronic Components,Controller,222.03,285.04,188,68,27
+PRD00236,Aluminium NH-641,Raw Materials,Aluminium,934.86,1137.62,275,182,19
+PRD00237,Connector DJ-367,Electrical Components,Connector,1809.93,2394.8,255,53,25
+PRD00238,Controller OH-410,Electronic Components,Controller,207.21,248.46,388,289,34
+PRD00239,Relay VF-657,Electronic Components,Relay,1709.73,1939.28,348,40,36
+PRD00240,Industrial Motor IO-918,Industrial Equipment,Industrial Motor,2128.76,2815.96,438,352,6
+PRD00241,Generator KD-619,Industrial Equipment,Generator,1204.06,1645.45,90,90,17
+PRD00242,Pump SQ-623,Industrial Equipment,Pump,2062.58,2591.66,24,13,35
+PRD00243,Cable UC-565,Electrical Components,Cable,1696.65,2298.25,50,49,43
+PRD00244,Packaging Film MI-431,Packaging,Packaging Film,671.24,1003.76,487,257,45
+PRD00245,Transformer GK-912,Electrical Components,Transformer,1994.58,2785.04,23,18,38
+PRD00246,Transformer AH-775,Electrical Components,Transformer,2127.2,3170.13,28,26,20
+PRD00247,Copper CT-853,Raw Materials,Copper,1772.37,2617.18,28,26,30
+PRD00248,Industrial Sensor FK-741,Electronic Components,Industrial Sensor,1745.19,2453.85,490,59,36
+PRD00249,Controller NU-490,Electronic Components,Controller,1548.44,2227.78,118,89,36
+PRD00250,Shaft WZ-213,Mechanical Components,Shaft,400.72,599.63,156,111,8
+PRD00251,Valve QL-804,Mechanical Components,Valve,2180.25,2426.97,255,154,18
+PRD00252,Pallet JV-067,Packaging,Pallet,2065.41,2391.73,173,30,44
+PRD00253,Industrial Box DG-831,Packaging,Industrial Box,841.12,1206.65,67,35,27
+PRD00254,Circuit Breaker DX-210,Electrical Components,Circuit Breaker,406.1,596.19,263,24,43
+PRD00255,Pump ZX-323,Industrial Equipment,Pump,2081.17,2764.54,62,41,30
+PRD00256,Protective Foam QE-199,Packaging,Protective Foam,20.93,25.73,309,58,36
+PRD00257,Pump PC-013,Industrial Equipment,Pump,1544.23,2380.48,128,125,39
+PRD00258,Cable HC-215,Electrical Components,Cable,1581.37,1924.39,43,14,20
+PRD00259,Industrial Rubber KB-702,Raw Materials,Industrial Rubber,1586.84,2131.12,356,26,14
+PRD00260,Bearing YR-670,Mechanical Components,Bearing,1950.71,2239.69,126,85,12
+PRD00261,Container NL-625,Packaging,Container,1903.76,2557.83,495,49,22
+PRD00262,Relay JC-447,Electronic Components,Relay,2407.67,3018.84,143,109,37
+PRD00263,Valve PP-999,Mechanical Components,Valve,1583.39,2405.82,406,388,11
+PRD00264,Industrial Box JE-476,Packaging,Industrial Box,260.76,396.81,276,187,6
+PRD00265,Generator YI-014,Industrial Equipment,Generator,1721.27,1945.94,138,29,24
+PRD00266,Industrial Rubber PO-638,Raw Materials,Industrial Rubber,755.9,1072.38,324,213,23
+PRD00267,Compressor YT-806,Industrial Equipment,Compressor,173.04,235.68,421,240,34
+PRD00268,Circuit Board YF-578,Electronic Components,Circuit Board,867.98,1197.3,303,202,30
+PRD00269,Relay UY-598,Electronic Components,Relay,119.13,177.76,358,204,8
+PRD00270,Copper UM-420,Raw Materials,Copper,2433.85,3738.38,428,136,7
+PRD00271,Compressor DZ-304,Industrial Equipment,Compressor,1875.38,2172.7,98,58,43
+PRD00272,Power Module XL-785,Electronic Components,Power Module,1896.87,2107.54,182,102,9
+PRD00273,Industrial Motor PQ-321,Industrial Equipment,Industrial Motor,60.2,74.99,177,123,26
+PRD00274,Bearing YV-348,Mechanical Components,Bearing,1224.16,1770.97,87,21,14
+PRD00275,Connector ZY-039,Electrical Components,Connector,1709.82,2223.89,305,294,35
+PRD00276,Transformer PL-522,Electrical Components,Transformer,687.7,1065.05,33,12,25
+PRD00277,Steel BT-559,Raw Materials,Steel,1068.32,1392.15,325,316,23
+PRD00278,Transformer JK-599,Electrical Components,Transformer,413.24,602.37,169,115,27
+PRD00279,Hydraulic System TL-378,Industrial Equipment,Hydraulic System,1735.74,2081.75,483,134,39
+PRD00280,Aluminium DO-701,Raw Materials,Aluminium,210.54,296.07,370,204,13
+PRD00281,Circuit Board HE-930,Electronic Components,Circuit Board,1638.01,2003.23,174,78,34
+PRD00282,Industrial Sensor MZ-059,Electronic Components,Industrial Sensor,2377.4,2776.75,105,65,20
+PRD00283,Cable ZU-252,Electrical Components,Cable,1083.68,1652.21,267,49,26
+PRD00284,Gear LT-002,Mechanical Components,Gear,1052.22,1459.78,389,330,34
+PRD00285,Industrial Rubber XE-218,Raw Materials,Industrial Rubber,997.0,1219.73,120,68,9
+PRD00286,Circuit Board GV-569,Electronic Components,Circuit Board,2460.02,3159.16,23,16,24
+PRD00287,Polymer KU-452,Raw Materials,Polymer,2235.78,2690.72,431,178,31
+PRD00288,Valve LT-675,Mechanical Components,Valve,536.7,597.89,437,431,44
+PRD00289,Aluminium OQ-895,Raw Materials,Aluminium,1630.91,2064.47,173,92,41
+PRD00290,Pallet TU-926,Packaging,Pallet,2161.57,2838.02,265,170,14
+PRD00291,Cable UA-422,Electrical Components,Cable,2420.64,2864.79,169,135,39
+PRD00292,Circuit Board CL-969,Electronic Components,Circuit Board,2172.21,3148.55,212,81,28
+PRD00293,Bearing OO-959,Mechanical Components,Bearing,1928.45,2854.4,497,298,15
+PRD00294,Industrial Rubber JV-917,Raw Materials,Industrial Rubber,1903.75,2630.6,112,97,38
+PRD00295,Generator UK-135,Industrial Equipment,Generator,332.46,370.57,382,117,31
+PRD00296,Bearing AQ-157,Mechanical Components,Bearing,2302.52,3171.7,439,417,29
+PRD00297,Container WQ-331,Packaging,Container,1992.36,2623.31,91,91,22
+PRD00298,Circuit Board YC-100,Electronic Components,Circuit Board,297.68,344.22,357,88,30
+PRD00299,Transformer FY-626,Electrical Components,Transformer,1715.49,2219.22,249,163,33
+PRD00300,Polymer GE-586,Raw Materials,Polymer,505.31,667.62,293,269,29
+PRD00301,Steel CE-932,Raw Materials,Steel,165.2,224.98,424,194,37
+PRD00302,Steel UQ-040,Raw Materials,Steel,676.14,986.42,75,41,45
+PRD00303,Protective Foam KY-115,Packaging,Protective Foam,779.35,1016.93,105,92,42
+PRD00304,Hydraulic System FV-218,Industrial Equipment,Hydraulic System,33.99,38.5,350,341,28
+PRD00305,Valve TB-997,Mechanical Components,Valve,984.27,1295.27,74,11,9
+PRD00306,Gear BK-629,Mechanical Components,Gear,1502.05,1849.4,281,275,38
+PRD00307,Industrial Rubber NM-015,Raw Materials,Industrial Rubber,1738.98,2585.96,133,67,26
+PRD00308,Connector QQ-688,Electrical Components,Connector,1950.73,2180.58,415,357,40
+PRD00309,Packaging Film GD-443,Packaging,Packaging Film,1203.86,1381.09,97,54,4
+PRD00310,Transformer FJ-698,Electrical Components,Transformer,608.9,940.14,171,116,8
+PRD00311,Pump BF-050,Industrial Equipment,Pump,360.53,477.52,198,89,24
+PRD00312,Switchgear MG-497,Electrical Components,Switchgear,1547.3,2191.15,286,257,25
+PRD00313,Transformer OS-032,Electrical Components,Transformer,1401.32,1547.61,244,194,31
+PRD00314,Bearing TY-171,Mechanical Components,Bearing,819.52,1092.4,173,21,10
+PRD00315,Compressor QQ-677,Industrial Equipment,Compressor,224.23,282.03,351,65,13
+PRD00316,Pallet LX-186,Packaging,Pallet,87.84,99.73,284,99,38
+PRD00317,Circuit Board CC-652,Electronic Components,Circuit Board,995.32,1154.29,306,228,32
+PRD00318,Power Module QO-477,Electronic Components,Power Module,1421.01,2003.99,342,104,14
+PRD00319,Container JW-490,Packaging,Container,2002.46,2383.06,222,17,42
+PRD00320,Power Module ZI-115,Electronic Components,Power Module,422.87,485.06,323,229,27
+PRD00321,Pump JD-693,Industrial Equipment,Pump,1592.89,2258.58,125,45,7
+PRD00322,Steel IR-686,Raw Materials,Steel,83.81,127.5,429,284,14
+PRD00323,Shaft ET-793,Mechanical Components,Shaft,134.67,180.94,120,68,10
+PRD00324,Valve GK-160,Mechanical Components,Valve,1774.11,2646.86,290,170,41
+PRD00325,Circuit Breaker JH-899,Electrical Components,Circuit Breaker,1786.65,2609.9,220,160,10
+PRD00326,Shaft NZ-722,Mechanical Components,Shaft,851.93,1249.5,452,244,42
+PRD00327,Circuit Board BF-320,Electronic Components,Circuit Board,204.89,307.88,490,324,40
+PRD00328,Pump MQ-632,Industrial Equipment,Pump,1371.24,2012.68,180,40,18
+PRD00329,Bearing YJ-511,Mechanical Components,Bearing,1133.53,1575.16,113,57,12
+PRD00330,Polymer RH-685,Raw Materials,Polymer,1318.37,1884.23,234,162,11
+PRD00331,Polymer LH-709,Raw Materials,Polymer,208.67,235.2,236,57,34
+PRD00332,Packaging Film JJ-616,Packaging,Packaging Film,621.52,728.29,375,340,14
+PRD00333,Aluminium WG-999,Raw Materials,Aluminium,2180.1,2613.17,270,157,11
+PRD00334,Circuit Board YS-191,Electronic Components,Circuit Board,2439.78,3053.64,451,240,42
+PRD00335,Compressor QY-856,Industrial Equipment,Compressor,459.38,668.57,24,17,11
+PRD00336,Power Module EC-799,Electronic Components,Power Module,1648.48,2182.9,307,268,44
+PRD00337,Connector JN-246,Electrical Components,Connector,1390.63,1979.76,370,261,29
+PRD00338,Container ZV-960,Packaging,Container,574.99,890.29,270,95,8
+PRD00339,Steel RX-307,Raw Materials,Steel,2437.11,3394.03,427,399,17
+PRD00340,Bearing TR-054,Mechanical Components,Bearing,502.86,707.07,160,67,37
+PRD00341,Gear IT-713,Mechanical Components,Gear,185.14,206.21,419,244,39
+PRD00342,Container UA-754,Packaging,Container,647.92,847.6,301,271,10
+PRD00343,Steel CN-913,Raw Materials,Steel,2171.34,3098.99,157,149,26
+PRD00344,Steel XD-678,Raw Materials,Steel,1858.05,2399.62,409,378,31
+PRD00345,Aluminium TT-821,Raw Materials,Aluminium,868.11,1099.87,237,36,44
+PRD00346,Circuit Board XH-862,Electronic Components,Circuit Board,2469.19,2760.68,467,26,31
+PRD00347,Shaft MM-902,Mechanical Components,Shaft,2168.24,2949.68,461,428,8
+PRD00348,Transformer DD-030,Electrical Components,Transformer,1099.35,1568.08,417,131,16
+PRD00349,Packaging Film XD-534,Packaging,Packaging Film,1219.24,1820.37,372,189,42
+PRD00350,Container RB-861,Packaging,Container,2252.25,2904.89,104,88,11
+PRD00351,Controller MC-357,Electronic Components,Controller,695.69,950.7,432,40,39
+PRD00352,Coupling JW-279,Mechanical Components,Coupling,2281.35,2725.75,163,162,37
+PRD00353,Circuit Board VS-524,Electronic Components,Circuit Board,1559.3,2158.39,380,159,21
+PRD00354,Copper YD-140,Raw Materials,Copper,1834.12,2126.12,459,273,9
+PRD00355,Power Module OP-293,Electronic Components,Power Module,1790.98,2702.7,490,40,20
+PRD00356,Pallet PA-334,Packaging,Pallet,453.31,547.1,379,77,18
+PRD00357,Circuit Board EI-800,Electronic Components,Circuit Board,2428.63,2869.28,444,136,28
+PRD00358,Switchgear OQ-290,Electrical Components,Switchgear,2136.69,2823.69,315,147,43
+PRD00359,Connector BY-944,Electrical Components,Connector,621.84,927.68,251,29,43
+PRD00360,Generator ND-574,Industrial Equipment,Generator,1116.04,1486.19,283,152,26
+PRD00361,Connector ZL-489,Electrical Components,Connector,901.29,1231.91,187,158,3
+PRD00362,Industrial Box QX-108,Packaging,Industrial Box,412.99,526.97,394,244,43
+PRD00363,Protective Foam ST-899,Packaging,Protective Foam,2423.68,2947.58,455,42,37
+PRD00364,Switchgear VR-171,Electrical Components,Switchgear,1643.56,2048.43,239,221,16
+PRD00365,Cable PT-544,Electrical Components,Cable,1934.82,2242.25,185,82,24
+PRD00366,Industrial Rubber HW-432,Raw Materials,Industrial Rubber,2424.7,3162.31,86,82,34
+PRD00367,Bearing ZQ-309,Mechanical Components,Bearing,593.95,672.99,43,16,43
+PRD00368,Transformer PF-520,Electrical Components,Transformer,428.55,571.64,83,30,31
+PRD00369,Transformer ZY-446,Electrical Components,Transformer,845.82,1245.89,239,61,11
+PRD00370,Protective Foam MV-099,Packaging,Protective Foam,1080.06,1308.95,101,45,8
+PRD00371,Protective Foam QW-387,Packaging,Protective Foam,1544.78,2190.57,148,31,26
+PRD00372,Pallet QJ-842,Packaging,Pallet,421.77,495.76,46,35,43
+PRD00373,Gear EI-241,Mechanical Components,Gear,96.5,138.13,239,177,8
+PRD00374,Industrial Box RV-482,Packaging,Industrial Box,1661.19,2182.11,20,13,33
+PRD00375,Pump OV-135,Industrial Equipment,Pump,2111.21,3087.75,323,125,36
+PRD00376,Container XQ-465,Packaging,Container,1465.46,2184.59,24,10,24
+PRD00377,Generator HE-947,Industrial Equipment,Generator,518.57,596.54,375,77,33
+PRD00378,Pump NE-099,Industrial Equipment,Pump,678.03,763.25,216,32,9
+PRD00379,Compressor HR-738,Industrial Equipment,Compressor,1330.27,2023.97,208,86,11
+PRD00380,Switchgear AD-684,Electrical Components,Switchgear,103.16,119.14,348,83,7
+PRD00381,Industrial Rubber VA-223,Raw Materials,Industrial Rubber,1133.24,1722.8,24,19,44
+PRD00382,Power Module UT-972,Electronic Components,Power Module,793.81,1054.38,199,194,16
+PRD00383,Pallet VO-217,Packaging,Pallet,108.72,126.85,490,220,42
+PRD00384,Container AC-250,Packaging,Container,2466.64,3784.57,460,121,8
+PRD00385,Pump KW-432,Industrial Equipment,Pump,17.33,26.49,405,73,40
+PRD00386,Container IN-271,Packaging,Container,1599.6,2384.3,199,119,23
+PRD00387,Controller BE-666,Electronic Components,Controller,1139.58,1517.94,161,31,18
+PRD00388,Industrial Rubber IM-600,Raw Materials,Industrial Rubber,1224.67,1714.65,327,321,21
+PRD00389,Industrial Box WH-505,Packaging,Industrial Box,353.43,393.54,454,443,45
+PRD00390,Gear OU-300,Mechanical Components,Gear,773.29,1095.83,285,270,15
+PRD00391,Container TI-335,Packaging,Container,508.62,713.62,171,23,18
+PRD00392,Connector LT-168,Electrical Components,Connector,2424.93,2769.89,77,40,34
+PRD00393,Packaging Film TS-210,Packaging,Packaging Film,1683.14,2187.56,56,43,3
+PRD00394,Shaft HV-789,Mechanical Components,Shaft,2171.01,2561.18,87,59,39
+PRD00395,Cable FW-625,Electrical Components,Cable,1733.1,2560.05,299,98,33
+PRD00396,Industrial Motor BO-326,Industrial Equipment,Industrial Motor,2361.81,3324.16,320,44,3
+PRD00397,Gear UB-323,Mechanical Components,Gear,1245.45,1716.27,40,39,6
+PRD00398,Circuit Breaker HX-982,Electrical Components,Circuit Breaker,2172.92,2948.16,166,138,29
+PRD00399,Connector XI-064,Electrical Components,Connector,80.82,122.76,62,50,37
+PRD00400,Industrial Rubber DQ-909,Raw Materials,Industrial Rubber,1725.37,2423.16,98,45,8
+PRD00401,Bearing SH-100,Mechanical Components,Bearing,543.11,758.45,281,114,12
+PRD00402,Copper HJ-676,Raw Materials,Copper,987.69,1375.91,220,160,43
+PRD00403,Industrial Box NS-472,Packaging,Industrial Box,270.95,378.25,178,121,18
+PRD00404,Pump QG-046,Industrial Equipment,Pump,2498.54,2802.6,64,37,10
+PRD00405,Circuit Breaker MS-849,Electrical Components,Circuit Breaker,2443.05,3134.7,331,38,22
+PRD00406,Pallet GU-261,Packaging,Pallet,2177.53,3161.93,81,11,11
+PRD00407,Industrial Box HY-914,Packaging,Industrial Box,1419.71,2033.45,103,73,25
+PRD00408,Industrial Rubber MM-173,Raw Materials,Industrial Rubber,2196.9,2816.13,420,379,19
+PRD00409,Circuit Board WT-483,Electronic Components,Circuit Board,820.95,1149.67,84,44,10
+PRD00410,Compressor CJ-642,Industrial Equipment,Compressor,2020.58,2915.75,433,229,20
+PRD00411,Steel VP-737,Raw Materials,Steel,1995.55,2586.26,154,29,34
+PRD00412,Circuit Breaker HK-001,Electrical Components,Circuit Breaker,2045.5,2360.7,204,24,34
+PRD00413,Aluminium XG-721,Raw Materials,Aluminium,1363.5,1503.38,208,50,19
+PRD00414,Hydraulic System PO-114,Industrial Equipment,Hydraulic System,814.84,1030.7,365,69,17
+PRD00415,Packaging Film DD-744,Packaging,Packaging Film,993.45,1403.71,21,10,3
+PRD00416,Industrial Sensor SX-120,Electronic Components,Industrial Sensor,974.45,1268.65,261,103,27
+PRD00417,Controller GW-561,Electronic Components,Controller,597.67,757.82,496,449,5
+PRD00418,Polymer QP-002,Raw Materials,Polymer,572.04,648.09,134,51,18
+PRD00419,Cable CN-255,Electrical Components,Cable,1510.6,2115.89,158,29,39
+PRD00420,Bearing VL-415,Mechanical Components,Bearing,1550.63,2029.11,277,36,14
+PRD00421,Relay DR-166,Electronic Components,Relay,952.57,1417.9,43,35,7
+PRD00422,Cable PZ-676,Electrical Components,Cable,1300.11,1710.47,416,169,23
+PRD00423,Hydraulic System SU-212,Industrial Equipment,Hydraulic System,68.98,86.47,253,12,26
+PRD00424,Circuit Board AL-021,Electronic Components,Circuit Board,953.59,1220.09,308,165,42
+PRD00425,Power Module LN-797,Electronic Components,Power Module,1452.53,1946.57,208,161,34
+PRD00426,Relay BR-659,Electronic Components,Relay,1521.72,2197.66,409,135,12
+PRD00427,Generator HA-277,Industrial Equipment,Generator,2033.4,2893.84,32,17,37
+PRD00428,Bearing QP-701,Mechanical Components,Bearing,2389.03,2647.53,191,10,45
+PRD00429,Cable XV-508,Electrical Components,Cable,493.47,544.5,73,36,36
+PRD00430,Power Module QV-993,Electronic Components,Power Module,1620.45,2437.34,271,40,12
+PRD00431,Protective Foam GB-889,Packaging,Protective Foam,612.49,929.25,67,12,17
+PRD00432,Polymer QR-375,Raw Materials,Polymer,155.37,236.24,378,200,32
+PRD00433,Industrial Box ND-628,Packaging,Industrial Box,882.3,1010.8,317,58,35
+PRD00434,Power Module EF-028,Electronic Components,Power Module,1217.25,1479.63,58,47,39
+PRD00435,Generator UP-217,Industrial Equipment,Generator,715.76,886.31,359,76,18
+PRD00436,Shaft GO-540,Mechanical Components,Shaft,2008.55,2696.72,455,171,28
+PRD00437,Protective Foam PF-866,Packaging,Protective Foam,781.71,1074.58,182,125,20
+PRD00438,Industrial Sensor CF-779,Electronic Components,Industrial Sensor,1791.8,2190.8,123,27,40
+PRD00439,Pump HF-775,Industrial Equipment,Pump,1036.81,1197.36,74,31,31
+PRD00440,Cable AC-016,Electrical Components,Cable,456.97,642.73,228,40,37
+PRD00441,Gear FY-880,Mechanical Components,Gear,457.69,611.62,251,88,32
+PRD00442,Bearing GJ-994,Mechanical Components,Bearing,1774.07,2036.8,66,20,22
+PRD00443,Packaging Film XD-375,Packaging,Packaging Film,1420.44,1726.48,40,16,23
+PRD00444,Industrial Sensor JX-375,Electronic Components,Industrial Sensor,2407.5,3172.11,384,137,25
+PRD00445,Circuit Breaker TQ-997,Electrical Components,Circuit Breaker,2015.95,2716.7,45,29,19
+PRD00446,Industrial Sensor GW-571,Electronic Components,Industrial Sensor,113.31,156.93,227,125,38
+PRD00447,Packaging Film WO-305,Packaging,Packaging Film,2378.75,3260.61,147,34,32
+PRD00448,Pump XS-488,Industrial Equipment,Pump,2048.88,3069.0,82,11,6
+PRD00449,Controller FI-102,Electronic Components,Controller,574.06,686.24,121,115,28
+PRD00450,Bearing NM-614,Mechanical Components,Bearing,1529.4,1965.22,318,310,19
+PRD00451,Industrial Motor ND-316,Industrial Equipment,Industrial Motor,2100.45,3161.2,53,22,44
+PRD00452,Switchgear WA-351,Electrical Components,Switchgear,886.79,1069.99,67,67,24
+PRD00453,Industrial Motor XC-091,Industrial Equipment,Industrial Motor,1952.41,2389.09,256,22,13
+PRD00454,Polymer IF-798,Raw Materials,Polymer,2057.42,2655.48,440,380,28
+PRD00455,Transformer JB-080,Electrical Components,Transformer,1670.54,1909.41,215,184,30
+PRD00456,Circuit Board XL-978,Electronic Components,Circuit Board,1561.53,2035.13,129,126,14
+PRD00457,Shaft GY-922,Mechanical Components,Shaft,1468.59,1726.48,248,236,12
+PRD00458,Hydraulic System GY-995,Industrial Equipment,Hydraulic System,1843.5,2743.6,337,325,18
+PRD00459,Protective Foam RZ-693,Packaging,Protective Foam,545.77,623.85,275,220,38
+PRD00460,Transformer ZI-547,Electrical Components,Transformer,63.98,88.86,64,27,27
+PRD00461,Power Module SV-269,Electronic Components,Power Module,1519.7,2045.54,122,92,36
+PRD00462,Relay UT-848,Electronic Components,Relay,583.71,744.76,426,19,27
+PRD00463,Protective Foam NN-833,Packaging,Protective Foam,1488.22,1969.73,265,258,25
+PRD00464,Industrial Rubber TP-452,Raw Materials,Industrial Rubber,2469.52,2868.1,184,109,20
+PRD00465,Industrial Sensor SO-288,Electronic Components,Industrial Sensor,1739.39,2229.8,183,162,17
+PRD00466,Compressor JE-515,Industrial Equipment,Compressor,1073.36,1527.3,49,40,36
+PRD00467,Coupling RV-996,Mechanical Components,Coupling,1732.63,2678.76,139,50,9
+PRD00468,Controller ZA-846,Electronic Components,Controller,325.34,373.12,156,146,6
+PRD00469,Relay YJ-810,Electronic Components,Relay,1812.23,2465.13,453,418,27
+PRD00470,Gear RW-003,Mechanical Components,Gear,689.03,782.56,110,40,40
+PRD00471,Shaft JD-244,Mechanical Components,Shaft,218.72,328.6,487,312,4
+PRD00472,Protective Foam CW-438,Packaging,Protective Foam,483.71,602.47,310,298,12
+PRD00473,Aluminium RV-719,Raw Materials,Aluminium,570.51,718.7,448,424,34
+PRD00474,Copper YP-838,Raw Materials,Copper,178.21,237.66,109,72,5
+PRD00475,Industrial Motor YY-840,Industrial Equipment,Industrial Motor,173.69,253.62,139,66,4
+PRD00476,Polymer DA-658,Raw Materials,Polymer,588.11,789.83,20,15,42
+PRD00477,Controller XC-439,Electronic Components,Controller,2200.8,3065.48,194,193,14
+PRD00478,Bearing IV-359,Mechanical Components,Bearing,1334.73,1663.01,31,14,40
+PRD00479,Pallet SC-933,Packaging,Pallet,835.84,1171.24,416,66,36
+PRD00480,Bearing LV-212,Mechanical Components,Bearing,2485.38,3474.13,211,190,45
+PRD00481,Circuit Breaker CB-816,Electrical Components,Circuit Breaker,1396.67,1995.55,71,31,22
+PRD00482,Gear IK-484,Mechanical Components,Gear,1165.69,1313.81,100,65,43
+PRD00483,Cable VD-940,Electrical Components,Cable,1407.93,2155.44,109,100,38
+PRD00484,Packaging Film UM-202,Packaging,Packaging Film,442.38,623.98,422,192,17
+PRD00485,Packaging Film FY-094,Packaging,Packaging Film,506.33,679.05,437,99,27
+PRD00486,Shaft EY-985,Mechanical Components,Shaft,246.21,320.73,85,32,3
+PRD00487,Packaging Film LH-583,Packaging,Packaging Film,1891.63,2376.66,220,207,39
+PRD00488,Pump AI-182,Industrial Equipment,Pump,1663.95,2425.96,328,172,42
+PRD00489,Relay WO-861,Electronic Components,Relay,2318.31,2794.93,73,73,12
+PRD00490,Bearing XS-355,Mechanical Components,Bearing,1001.29,1170.09,141,98,23
+PRD00491,Industrial Sensor EJ-398,Electronic Components,Industrial Sensor,2481.25,3764.43,440,372,45
+PRD00492,Protective Foam CP-015,Packaging,Protective Foam,1352.19,1999.77,248,12,19
+PRD00493,Controller CR-993,Electronic Components,Controller,1304.79,1801.41,374,44,25
+PRD00494,Bearing YQ-561,Mechanical Components,Bearing,227.37,327.38,388,10,6
+PRD00495,Connector HX-840,Electrical Components,Connector,323.65,476.33,395,224,13
+PRD00496,Connector CF-588,Electrical Components,Connector,1956.16,2775.66,471,203,25
+PRD00497,Polymer UG-043,Raw Materials,Polymer,95.22,117.73,71,63,33
+PRD00498,Aluminium XI-112,Raw Materials,Aluminium,661.47,834.82,103,67,7
+PRD00499,Compressor NQ-801,Industrial Equipment,Compressor,223.67,340.34,30,20,19
+PRD00500,Industrial Motor NI-361,Industrial Equipment,Industrial Motor,1386.74,1716.07,195,53,27
+PRD00501,Industrial Sensor BD-612,Electronic Components,Industrial Sensor,995.47,1295.35,300,57,24
+PRD00502,Industrial Rubber ED-501,Raw Materials,Industrial Rubber,1503.48,2002.72,477,257,4
+PRD00503,Switchgear EK-248,Electrical Components,Switchgear,2298.88,3042.87,330,232,13
+PRD00504,Industrial Motor YC-346,Industrial Equipment,Industrial Motor,2480.43,3678.83,189,62,15
+PRD00505,Circuit Breaker BY-665,Electrical Components,Circuit Breaker,525.23,797.7,389,383,37
+PRD00506,Shaft PU-180,Mechanical Components,Shaft,295.33,433.5,172,70,9
+PRD00507,Generator CS-919,Industrial Equipment,Generator,954.66,1427.3,312,291,34
+PRD00508,Industrial Sensor GS-158,Electronic Components,Industrial Sensor,2170.8,3175.16,204,10,30
+PRD00509,Compressor SW-491,Industrial Equipment,Compressor,1976.13,2444.68,441,348,43
+PRD00510,Polymer QB-766,Raw Materials,Polymer,206.89,265.1,122,22,4
+PRD00511,Controller OI-728,Electronic Components,Controller,437.94,618.69,346,159,8
+PRD00512,Transformer OJ-684,Electrical Components,Transformer,868.52,1336.67,177,111,33
+PRD00513,Cable JJ-450,Electrical Components,Cable,1604.23,2358.4,66,51,37
+PRD00514,Switchgear AK-210,Electrical Components,Switchgear,335.65,499.42,209,107,26
+PRD00515,Power Module JF-968,Electronic Components,Power Module,2307.28,3043.71,42,26,31
+PRD00516,Cable NA-435,Electrical Components,Cable,1517.6,2191.66,135,117,20
+PRD00517,Steel LO-822,Raw Materials,Steel,441.22,585.13,97,95,9
+PRD00518,Compressor HL-943,Industrial Equipment,Compressor,999.66,1165.47,433,287,29
+PRD00519,Aluminium DP-908,Raw Materials,Aluminium,922.0,1042.48,303,41,27
+PRD00520,Polymer QE-814,Raw Materials,Polymer,69.4,80.56,294,253,39
+PRD00521,Power Module UL-413,Electronic Components,Power Module,2407.97,3244.23,173,30,28
+PRD00522,Industrial Box IQ-755,Packaging,Industrial Box,2414.73,3126.17,277,274,39
+PRD00523,Packaging Film NE-314,Packaging,Packaging Film,782.98,1039.61,95,25,31
+PRD00524,Controller CV-357,Electronic Components,Controller,1101.58,1264.12,128,113,15
+PRD00525,Industrial Sensor JK-949,Electronic Components,Industrial Sensor,1603.86,1920.17,236,30,30
+PRD00526,Controller BK-955,Electronic Components,Controller,1550.87,2159.73,447,314,19
+PRD00527,Bearing YO-053,Mechanical Components,Bearing,384.3,433.34,64,34,38
+PRD00528,Circuit Breaker IR-645,Electrical Components,Circuit Breaker,1953.0,2552.4,186,80,36
+PRD00529,Transformer CW-577,Electrical Components,Transformer,150.12,232.34,422,368,42
+PRD00530,Industrial Rubber GL-478,Raw Materials,Industrial Rubber,149.16,210.73,420,224,10
+PRD00531,Switchgear II-914,Electrical Components,Switchgear,2459.28,2969.9,95,82,40
+PRD00532,Steel UE-341,Raw Materials,Steel,359.91,415.56,493,64,39
+PRD00533,Compressor LL-080,Industrial Equipment,Compressor,761.67,872.47,464,284,25
+PRD00534,Cable CJ-693,Electrical Components,Cable,1731.94,1953.68,216,177,34
+PRD00535,Industrial Rubber EP-488,Raw Materials,Industrial Rubber,1276.01,1975.92,262,19,14
+PRD00536,Valve OX-256,Mechanical Components,Valve,2035.86,2803.07,93,89,41
+PRD00537,Container DG-942,Packaging,Container,769.1,1061.94,39,22,24
+PRD00538,Pallet XG-816,Packaging,Pallet,1319.97,1705.05,45,40,20
+PRD00539,Bearing RK-039,Mechanical Components,Bearing,331.12,496.34,192,87,22
+PRD00540,Valve KL-827,Mechanical Components,Valve,1127.21,1338.65,459,366,9
+PRD00541,Controller VU-992,Electronic Components,Controller,922.56,1186.74,173,123,23
+PRD00542,Valve OW-750,Mechanical Components,Valve,2069.71,2959.95,329,55,15
+PRD00543,Switchgear QX-731,Electrical Components,Switchgear,1924.42,2126.41,487,431,29
+PRD00544,Container HY-303,Packaging,Container,1043.3,1373.61,408,274,26
+PRD00545,Hydraulic System DC-567,Industrial Equipment,Hydraulic System,52.88,64.35,425,91,7
+PRD00546,Coupling TH-051,Mechanical Components,Coupling,1901.92,2209.46,226,44,36
+PRD00547,Steel IK-449,Raw Materials,Steel,1340.6,1604.48,108,34,15
+PRD00548,Pump XL-266,Industrial Equipment,Pump,35.24,42.59,36,24,6
+PRD00549,Gear YO-184,Mechanical Components,Gear,2439.81,3563.81,160,104,32
+PRD00550,Polymer WF-865,Raw Materials,Polymer,2399.14,3165.75,345,73,4
+PRD00551,Circuit Board GI-790,Electronic Components,Circuit Board,278.79,375.41,270,238,14
+PRD00552,Circuit Breaker EG-723,Electrical Components,Circuit Breaker,1138.67,1685.19,302,189,25
+PRD00553,Circuit Board LK-432,Electronic Components,Circuit Board,249.72,329.56,403,362,8
+PRD00554,Bearing QO-591,Mechanical Components,Bearing,379.37,472.73,217,22,13
+PRD00555,Aluminium ER-651,Raw Materials,Aluminium,1844.71,2424.33,458,123,44
+PRD00556,Controller LK-773,Electronic Components,Controller,942.84,1204.49,157,114,35
+PRD00557,Industrial Motor CI-603,Industrial Equipment,Industrial Motor,1151.32,1673.16,262,243,11
+PRD00558,Pallet IO-992,Packaging,Pallet,2230.75,3412.83,327,14,17
+PRD00559,Coupling JD-809,Mechanical Components,Coupling,1968.32,2444.52,432,166,44
+PRD00560,Valve HZ-242,Mechanical Components,Valve,1721.9,2233.17,478,202,25
+PRD00561,Cable UU-990,Electrical Components,Cable,640.4,946.76,131,69,22
+PRD00562,Packaging Film CM-413,Packaging,Packaging Film,100.87,151.89,442,329,28
+PRD00563,Steel OA-772,Raw Materials,Steel,1156.39,1603.61,23,18,45
+PRD00564,Coupling XL-929,Mechanical Components,Coupling,1650.09,2479.76,351,314,41
+PRD00565,Shaft KU-984,Mechanical Components,Shaft,1593.49,2193.07,370,65,33
+PRD00566,Compressor LE-579,Industrial Equipment,Compressor,171.3,228.39,161,93,20
+PRD00567,Shaft IG-366,Mechanical Components,Shaft,379.67,543.63,116,29,36
+PRD00568,Industrial Sensor GR-038,Electronic Components,Industrial Sensor,1282.99,1804.02,432,420,41
+PRD00569,Cable GL-629,Electrical Components,Cable,108.97,124.02,368,81,4
+PRD00570,Container CY-799,Packaging,Container,1792.23,2029.59,171,76,29
+PRD00571,Connector FE-881,Electrical Components,Connector,182.79,202.06,397,28,40
+PRD00572,Packaging Film AX-298,Packaging,Packaging Film,2391.47,3424.3,437,107,24
+PRD00573,Pallet XC-686,Packaging,Pallet,886.36,1093.27,371,283,43
+PRD00574,Cable ZE-863,Electrical Components,Cable,877.51,1271.16,279,163,13
+PRD00575,Packaging Film ZV-659,Packaging,Packaging Film,1655.12,1958.57,112,47,9
+PRD00576,Switchgear IQ-916,Electrical Components,Switchgear,439.4,502.8,399,142,38
+PRD00577,Circuit Board SM-731,Electronic Components,Circuit Board,1652.46,2386.1,355,55,17
+PRD00578,Gear MA-864,Mechanical Components,Gear,666.29,739.2,401,167,29
+PRD00579,Shaft HH-098,Mechanical Components,Shaft,210.02,322.49,153,85,32
+PRD00580,Generator SZ-063,Industrial Equipment,Generator,742.13,1073.23,47,47,40
+PRD00581,Steel GJ-565,Raw Materials,Steel,1563.54,1988.62,261,237,15
+PRD00582,Steel QI-694,Raw Materials,Steel,518.19,598.31,464,358,27
+PRD00583,Copper NR-695,Raw Materials,Copper,1539.46,2230.04,231,23,12
+PRD00584,Controller JY-636,Electronic Components,Controller,1611.54,2157.27,195,114,39
+PRD00585,Switchgear XJ-872,Electrical Components,Switchgear,109.67,168.43,181,56,8
+PRD00586,Cable TK-874,Electrical Components,Cable,1997.79,2460.82,343,100,23
+PRD00587,Industrial Box QH-562,Packaging,Industrial Box,2450.03,3358.62,22,17,20
+PRD00588,Controller GN-372,Electronic Components,Controller,1458.14,2094.81,315,91,34
+PRD00589,Pump ZJ-865,Industrial Equipment,Pump,2030.37,2833.21,334,232,43
+PRD00590,Connector YO-902,Electrical Components,Connector,324.6,406.47,239,132,27
+PRD00591,Industrial Motor EM-012,Industrial Equipment,Industrial Motor,2320.57,2787.18,293,112,26
+PRD00592,Compressor QO-611,Industrial Equipment,Compressor,933.56,1208.43,407,281,15
+PRD00593,Industrial Motor CU-519,Industrial Equipment,Industrial Motor,1101.32,1515.22,340,137,17
+PRD00594,Protective Foam PH-669,Packaging,Protective Foam,2357.97,2849.16,179,43,9
+PRD00595,Circuit Breaker XL-490,Electrical Components,Circuit Breaker,308.15,366.35,321,166,13
+PRD00596,Industrial Motor MQ-770,Industrial Equipment,Industrial Motor,2217.88,3084.22,172,84,32
+PRD00597,Packaging Film CY-843,Packaging,Packaging Film,718.34,1053.93,325,278,24
+PRD00598,Switchgear SO-988,Electrical Components,Switchgear,2154.12,3190.1,195,135,25
+PRD00599,Controller XP-920,Electronic Components,Controller,2297.72,2788.3,484,480,28
+PRD00600,Pump RX-021,Industrial Equipment,Pump,1888.83,2469.16,134,103,11
+PRD00601,Industrial Sensor ZL-656,Electronic Components,Industrial Sensor,2105.79,3006.69,321,268,13
+PRD00602,Compressor VT-380,Industrial Equipment,Compressor,1942.24,2709.95,384,343,5
+PRD00603,Cable SU-118,Electrical Components,Cable,447.68,602.25,414,283,42
+PRD00604,Hydraulic System WR-895,Industrial Equipment,Hydraulic System,2461.75,3746.35,44,16,44
+PRD00605,Industrial Motor DZ-393,Industrial Equipment,Industrial Motor,112.72,132.35,373,69,29
+PRD00606,Connector LA-904,Electrical Components,Connector,333.66,476.03,83,80,19
+PRD00607,Switchgear EG-818,Electrical Components,Switchgear,2045.37,2446.43,125,98,43
+PRD00608,Compressor ZG-451,Industrial Equipment,Compressor,1267.1,1873.17,235,179,9
+PRD00609,Packaging Film QS-489,Packaging,Packaging Film,1833.34,2464.02,158,45,29
+PRD00610,Hydraulic System EX-769,Industrial Equipment,Hydraulic System,1477.92,1963.8,388,326,10
+PRD00611,Bearing RD-357,Mechanical Components,Bearing,747.38,1012.15,421,64,34
+PRD00612,Relay HQ-907,Electronic Components,Relay,1723.77,2573.58,122,109,19
+PRD00613,Aluminium RS-163,Raw Materials,Aluminium,1592.55,2297.26,203,190,29
+PRD00614,Gear WH-356,Mechanical Components,Gear,404.38,528.81,40,27,34
+PRD00615,Power Module PS-804,Electronic Components,Power Module,28.28,34.25,189,70,3
+PRD00616,Industrial Motor EJ-165,Industrial Equipment,Industrial Motor,1817.52,2810.46,484,66,39
+PRD00617,Container WN-275,Packaging,Container,252.45,323.31,96,21,35
+PRD00618,Industrial Motor VR-942,Industrial Equipment,Industrial Motor,2001.18,2385.04,483,141,44
+PRD00619,Power Module PV-373,Electronic Components,Power Module,1389.94,1987.45,171,77,32
+PRD00620,Industrial Motor OM-343,Industrial Equipment,Industrial Motor,1541.88,1826.53,436,99,5
+PRD00621,Shaft JX-395,Mechanical Components,Shaft,891.68,1295.35,430,356,23
+PRD00622,Transformer RQ-111,Electrical Components,Transformer,1387.8,1529.85,68,64,5
+PRD00623,Pump WI-790,Industrial Equipment,Pump,1903.67,2124.29,359,341,13
+PRD00624,Shaft NU-075,Mechanical Components,Shaft,1865.61,2222.16,477,234,42
+PRD00625,Bearing FL-794,Mechanical Components,Bearing,2395.39,3031.54,210,97,14
+PRD00626,Generator OW-846,Industrial Equipment,Generator,820.69,957.74,224,126,20
+PRD00627,Connector HZ-920,Electrical Components,Connector,767.48,1146.99,429,225,44
+PRD00628,Industrial Sensor CG-678,Electronic Components,Industrial Sensor,2490.85,3152.77,87,17,13
+PRD00629,Generator DH-562,Industrial Equipment,Generator,1124.28,1602.02,486,312,33
+PRD00630,Polymer SA-875,Raw Materials,Polymer,2216.06,3029.07,112,88,27
+PRD00631,Coupling LG-036,Mechanical Components,Coupling,981.86,1262.36,34,31,11
+PRD00632,Connector QL-559,Electrical Components,Connector,1740.57,1917.15,77,62,31
+PRD00633,Industrial Motor RE-843,Industrial Equipment,Industrial Motor,1550.88,1954.07,153,90,3
+PRD00634,Packaging Film LF-955,Packaging,Packaging Film,1986.52,2268.3,412,390,39
+PRD00635,Packaging Film SW-636,Packaging,Packaging Film,1472.56,1938.53,134,132,45
+PRD00636,Coupling RC-556,Mechanical Components,Coupling,1607.6,1815.28,287,58,30
+PRD00637,Pallet KR-292,Packaging,Pallet,1452.06,1964.16,266,187,45
+PRD00638,Container ZP-314,Packaging,Container,1403.85,1925.48,96,81,42
+PRD00639,Industrial Motor MJ-866,Industrial Equipment,Industrial Motor,1692.79,2475.27,349,90,35
+PRD00640,Connector LA-270,Electrical Components,Connector,678.2,997.82,465,94,7
+PRD00641,Cable IU-728,Electrical Components,Cable,1248.15,1416.25,143,94,20
+PRD00642,Hydraulic System QJ-574,Industrial Equipment,Hydraulic System,151.08,188.91,134,80,44
+PRD00643,Connector GS-906,Electrical Components,Connector,1963.32,2784.88,438,130,8
+PRD00644,Connector QE-203,Electrical Components,Connector,1972.59,2629.01,430,303,31
+PRD00645,Generator QX-175,Industrial Equipment,Generator,1103.3,1286.84,248,90,10
+PRD00646,Transformer ZQ-588,Electrical Components,Transformer,823.84,1067.13,72,35,29
+PRD00647,Hydraulic System HW-506,Industrial Equipment,Hydraulic System,226.06,271.11,301,10,8
+PRD00648,Industrial Rubber KP-939,Raw Materials,Industrial Rubber,1497.57,2143.1,346,165,35
+PRD00649,Aluminium WU-824,Raw Materials,Aluminium,2495.88,3793.49,355,353,32
+PRD00650,Shaft FY-877,Mechanical Components,Shaft,1608.2,2073.87,442,37,17
+PRD00651,Cable OJ-947,Electrical Components,Cable,1592.26,2314.42,306,252,45
+PRD00652,Valve ON-256,Mechanical Components,Valve,300.25,385.66,78,22,45
+PRD00653,Industrial Sensor FK-961,Electronic Components,Industrial Sensor,2100.31,2673.12,194,100,43
+PRD00654,Coupling UP-535,Mechanical Components,Coupling,1431.82,1953.71,287,201,9
+PRD00655,Pump PZ-449,Industrial Equipment,Pump,465.27,587.64,272,81,29
+PRD00656,Compressor VL-475,Industrial Equipment,Compressor,839.61,933.47,332,110,15
+PRD00657,Generator KL-876,Industrial Equipment,Generator,65.36,96.36,130,68,15
+PRD00658,Protective Foam QQ-023,Packaging,Protective Foam,686.31,914.94,75,63,5
+PRD00659,Packaging Film ZG-132,Packaging,Packaging Film,750.32,1142.97,83,67,32
+PRD00660,Packaging Film JD-117,Packaging,Packaging Film,651.95,843.2,278,78,34
+PRD00661,Hydraulic System WF-068,Industrial Equipment,Hydraulic System,2182.46,3227.57,396,34,38
+PRD00662,Circuit Breaker JF-149,Electrical Components,Circuit Breaker,469.32,685.77,267,100,40
+PRD00663,Controller PV-643,Electronic Components,Controller,1148.18,1512.54,73,59,45
+PRD00664,Industrial Rubber IH-472,Raw Materials,Industrial Rubber,338.03,384.09,471,174,35
+PRD00665,Connector QW-200,Electrical Components,Connector,1821.21,2410.2,331,137,20
+PRD00666,Cable IR-577,Electrical Components,Cable,1094.94,1563.88,170,125,11
+PRD00667,Power Module SI-872,Electronic Components,Power Module,1914.95,2243.38,328,272,22
+PRD00668,Packaging Film DO-299,Packaging,Packaging Film,1527.51,1773.3,460,170,38
+PRD00669,Pallet OO-968,Packaging,Pallet,1879.68,2623.34,122,36,42
+PRD00670,Protective Foam EI-845,Packaging,Protective Foam,2391.75,2705.14,371,186,11
+PRD00671,Pallet TX-317,Packaging,Pallet,147.35,180.8,277,175,10
+PRD00672,Coupling TA-642,Mechanical Components,Coupling,657.96,796.88,265,223,37
+PRD00673,Valve WS-082,Mechanical Components,Valve,2266.11,2747.2,433,16,36
+PRD00674,Industrial Motor SF-780,Industrial Equipment,Industrial Motor,683.51,985.44,215,47,6
+PRD00675,Industrial Box XB-740,Packaging,Industrial Box,1127.1,1633.75,122,44,13
+PRD00676,Shaft YA-493,Mechanical Components,Shaft,168.09,221.78,94,17,21
+PRD00677,Relay AJ-853,Electronic Components,Relay,88.87,100.26,36,21,31
+PRD00678,Hydraulic System KT-663,Industrial Equipment,Hydraulic System,2266.56,2635.24,464,355,38
+PRD00679,Relay QF-663,Electronic Components,Relay,1333.39,1713.4,219,70,35
+PRD00680,Protective Foam WZ-638,Packaging,Protective Foam,871.62,1311.72,374,350,6
+PRD00681,Connector PV-944,Electrical Components,Connector,59.45,83.15,233,211,23
+PRD00682,Steel ME-846,Raw Materials,Steel,2408.67,3256.7,26,18,15
+PRD00683,Polymer HO-224,Raw Materials,Polymer,2342.37,2631.69,444,125,43
+PRD00684,Protective Foam RS-797,Packaging,Protective Foam,1049.89,1277.79,406,311,37
+PRD00685,Packaging Film UB-973,Packaging,Packaging Film,1828.4,2818.63,120,109,15
+PRD00686,Valve BL-208,Mechanical Components,Valve,645.04,899.43,110,97,7
+PRD00687,Controller IT-144,Electronic Components,Controller,499.25,676.18,396,273,10
+PRD00688,Transformer FJ-703,Electrical Components,Transformer,1162.51,1787.25,239,81,38
+PRD00689,Gear VA-073,Mechanical Components,Gear,1523.28,1915.19,102,84,19
+PRD00690,Compressor DS-475,Industrial Equipment,Compressor,289.67,338.35,258,191,12
+PRD00691,Pump WJ-051,Industrial Equipment,Pump,567.17,687.94,495,175,41
+PRD00692,Hydraulic System EI-046,Industrial Equipment,Hydraulic System,2127.29,2877.27,451,348,22
+PRD00693,Circuit Breaker QY-723,Electrical Components,Circuit Breaker,1310.86,1509.65,301,193,7
+PRD00694,Protective Foam YX-013,Packaging,Protective Foam,2151.05,3065.82,289,122,14
+PRD00695,Steel MD-730,Raw Materials,Steel,173.83,246.58,422,268,13
+PRD00696,Circuit Breaker EY-183,Electrical Components,Circuit Breaker,1361.13,1547.3,294,216,8
+PRD00697,Gear OU-452,Mechanical Components,Gear,1148.46,1513.8,472,119,45
+PRD00698,Shaft HQ-088,Mechanical Components,Shaft,418.61,638.62,204,85,16
+PRD00699,Industrial Rubber XD-743,Raw Materials,Industrial Rubber,2125.69,2978.22,263,153,44
+PRD00700,Industrial Motor OB-313,Industrial Equipment,Industrial Motor,1158.43,1488.92,362,187,31
+PRD00701,Relay YR-502,Electronic Components,Relay,1629.18,2191.97,490,328,18
+PRD00702,Compressor YP-916,Industrial Equipment,Compressor,160.37,213.39,215,213,10
+PRD00703,Cable YS-009,Electrical Components,Cable,2016.98,2635.5,296,154,4
+PRD00704,Copper XX-792,Raw Materials,Copper,134.63,195.73,283,270,31
+PRD00705,Transformer FF-132,Electrical Components,Transformer,507.4,617.19,171,59,23
+PRD00706,Steel DW-950,Raw Materials,Steel,415.94,519.34,69,20,37
+PRD00707,Steel IF-281,Raw Materials,Steel,1893.1,2524.87,340,43,16
+PRD00708,Pallet YP-358,Packaging,Pallet,516.18,771.7,462,360,30
+PRD00709,Pump BS-573,Industrial Equipment,Pump,2199.56,3281.22,295,232,44
+PRD00710,Pump QC-652,Industrial Equipment,Pump,600.8,782.88,32,24,24
+PRD00711,Industrial Motor SI-778,Industrial Equipment,Industrial Motor,2462.55,3564.31,57,13,14
+PRD00712,Coupling LI-739,Mechanical Components,Coupling,72.78,82.19,56,46,17
+PRD00713,Valve RM-557,Mechanical Components,Valve,1162.51,1754.4,218,125,43
+PRD00714,Connector HJ-821,Electrical Components,Connector,1349.06,1786.18,181,14,27
+PRD00715,Industrial Box IX-744,Packaging,Industrial Box,268.16,374.23,293,13,44
+PRD00716,Packaging Film YU-708,Packaging,Packaging Film,2056.15,2613.76,52,47,5
+PRD00717,Industrial Box XX-209,Packaging,Industrial Box,1940.15,2976.22,203,138,9
+PRD00718,Shaft UE-935,Mechanical Components,Shaft,513.4,685.64,330,54,21
+PRD00719,Connector HR-863,Electrical Components,Connector,721.41,1050.94,222,220,45
+PRD00720,Generator NS-782,Industrial Equipment,Generator,1446.1,2003.66,100,78,17
+PRD00721,Power Module HG-565,Electronic Components,Power Module,1995.8,2551.01,427,418,37
+PRD00722,Gear IL-810,Mechanical Components,Gear,2288.15,3065.81,172,105,3
+PRD00723,Industrial Rubber FM-031,Raw Materials,Industrial Rubber,399.1,563.99,92,25,5
+PRD00724,Hydraulic System PY-109,Industrial Equipment,Hydraulic System,1984.19,2465.44,325,211,37
+PRD00725,Steel SL-789,Raw Materials,Steel,2143.66,3232.13,176,63,25
+PRD00726,Power Module OM-405,Electronic Components,Power Module,695.88,1073.45,483,340,35
+PRD00727,Controller PF-103,Electronic Components,Controller,356.08,424.06,114,38,42
+PRD00728,Gear XJ-170,Mechanical Components,Gear,464.64,698.03,78,33,45
+PRD00729,Steel NR-650,Raw Materials,Steel,1637.46,1913.29,455,394,38
+PRD00730,Circuit Breaker TE-801,Electrical Components,Circuit Breaker,1103.61,1519.54,57,28,45
+PRD00731,Compressor GU-381,Industrial Equipment,Compressor,213.24,319.24,70,22,40
+PRD00732,Cable MM-386,Electrical Components,Cable,2009.99,2667.95,202,42,45
+PRD00733,Pallet OL-839,Packaging,Pallet,2417.98,3114.34,71,28,42
+PRD00734,Pump VG-886,Industrial Equipment,Pump,2460.36,3445.89,182,134,31
+PRD00735,Coupling SQ-957,Mechanical Components,Coupling,1588.5,1865.98,357,166,40
+PRD00736,Relay YL-612,Electronic Components,Relay,2205.41,2850.21,310,196,23
+PRD00737,Switchgear VQ-868,Electrical Components,Switchgear,409.77,453.07,22,15,18
+PRD00738,Power Module CW-289,Electronic Components,Power Module,1401.59,1874.39,161,102,11
+PRD00739,Protective Foam XA-585,Packaging,Protective Foam,1799.79,2700.79,469,255,32
+PRD00740,Cable PK-659,Electrical Components,Cable,203.12,290.29,416,166,34
+PRD00741,Steel XJ-836,Raw Materials,Steel,472.59,702.35,109,92,41
+PRD00742,Compressor CZ-457,Industrial Equipment,Compressor,2048.56,2751.95,459,433,11
+PRD00743,Aluminium MB-004,Raw Materials,Aluminium,1777.06,2206.14,154,29,7
+PRD00744,Hydraulic System AT-824,Industrial Equipment,Hydraulic System,1180.56,1735.11,343,25,40
+PRD00745,Polymer BX-335,Raw Materials,Polymer,1150.87,1451.26,413,312,16
+PRD00746,Hydraulic System JK-488,Industrial Equipment,Hydraulic System,1238.06,1823.31,153,149,37
+PRD00747,Switchgear CD-921,Electrical Components,Switchgear,841.34,991.26,207,110,17
+PRD00748,Copper QX-522,Raw Materials,Copper,1781.47,2621.77,88,69,35
+PRD00749,Steel QZ-933,Raw Materials,Steel,256.09,309.34,223,103,35
+PRD00750,Pump ZK-419,Industrial Equipment,Pump,359.22,451.39,454,422,42
+PRD00751,Pallet YE-315,Packaging,Pallet,1128.63,1621.81,407,273,11
+PRD00752,Switchgear GM-279,Electrical Components,Switchgear,1629.61,2247.91,111,82,39
+PRD00753,Pallet YF-409,Packaging,Pallet,884.18,1307.39,396,384,33
+PRD00754,Bearing BA-055,Mechanical Components,Bearing,1180.86,1819.23,132,107,34
+PRD00755,Industrial Sensor AO-139,Electronic Components,Industrial Sensor,1587.18,1836.08,155,104,17
+PRD00756,Pump HC-604,Industrial Equipment,Pump,1692.06,2108.81,285,194,27
+PRD00757,Connector JU-589,Electrical Components,Connector,1717.39,1942.95,471,33,5
+PRD00758,Protective Foam DR-832,Packaging,Protective Foam,441.33,655.41,72,55,36
+PRD00759,Protective Foam KG-679,Packaging,Protective Foam,571.81,844.37,447,389,19
+PRD00760,Industrial Rubber SY-136,Raw Materials,Industrial Rubber,701.79,974.99,311,99,27
+PRD00761,Container VF-622,Packaging,Container,1736.91,2311.3,207,160,44
+PRD00762,Hydraulic System JZ-790,Industrial Equipment,Hydraulic System,766.75,916.8,148,106,17
+PRD00763,Polymer GB-416,Raw Materials,Polymer,87.81,108.6,200,98,34
+PRD00764,Circuit Breaker JM-227,Electrical Components,Circuit Breaker,1634.64,2488.31,23,18,11
+PRD00765,Switchgear MJ-769,Electrical Components,Switchgear,2178.66,3147.57,137,29,35
+PRD00766,Protective Foam PE-983,Packaging,Protective Foam,1972.18,2759.56,128,29,14
+PRD00767,Circuit Board RK-465,Electronic Components,Circuit Board,654.42,987.02,328,70,45
+PRD00768,Power Module BX-116,Electronic Components,Power Module,1678.48,2269.64,435,179,10
+PRD00769,Connector WM-535,Electrical Components,Connector,281.92,366.83,265,117,40
+PRD00770,Power Module WN-042,Electronic Components,Power Module,1153.59,1717.76,31,17,5
+PRD00771,Relay CC-792,Electronic Components,Relay,1368.89,1740.11,323,92,11
+PRD00772,Packaging Film JW-335,Packaging,Packaging Film,2442.12,2808.01,40,38,39
+PRD00773,Industrial Sensor PN-110,Electronic Components,Industrial Sensor,1059.26,1185.22,105,43,14
+PRD00774,Polymer VS-240,Raw Materials,Polymer,1851.06,2800.9,326,298,43
+PRD00775,Compressor EB-147,Industrial Equipment,Compressor,703.69,1045.86,63,23,31
+PRD00776,Polymer NN-538,Raw Materials,Polymer,734.08,1108.35,464,256,13
+PRD00777,Power Module JE-884,Electronic Components,Power Module,1886.13,2757.91,327,83,40
+PRD00778,Relay YL-920,Electronic Components,Relay,49.93,76.56,357,271,19
+PRD00779,Circuit Board KD-804,Electronic Components,Circuit Board,1818.04,2249.17,492,242,41
+PRD00780,Steel RD-439,Raw Materials,Steel,2074.34,2544.56,137,106,27
+PRD00781,Industrial Sensor YQ-701,Electronic Components,Industrial Sensor,2182.52,2511.34,28,16,36
+PRD00782,Polymer BS-451,Raw Materials,Polymer,1760.7,2365.17,443,86,41
+PRD00783,Pump GT-636,Industrial Equipment,Pump,245.85,297.2,263,240,42
+PRD00784,Steel MI-157,Raw Materials,Steel,35.95,47.13,469,411,37
+PRD00785,Steel GD-123,Raw Materials,Steel,756.66,1036.06,67,40,45
+PRD00786,Relay PH-800,Electronic Components,Relay,746.61,922.04,296,10,44
+PRD00787,Circuit Breaker ZV-457,Electrical Components,Circuit Breaker,1859.27,2085.48,235,104,5
+PRD00788,Packaging Film RW-205,Packaging,Packaging Film,2257.72,3349.37,239,68,33
+PRD00789,Cable GR-543,Electrical Components,Cable,1671.17,2284.41,321,304,9
+PRD00790,Switchgear BJ-046,Electrical Components,Switchgear,2231.29,2640.51,150,132,17
+PRD00791,Compressor VZ-432,Industrial Equipment,Compressor,202.03,244.01,326,288,29
+PRD00792,Gear HR-216,Mechanical Components,Gear,1987.47,2217.22,22,21,3
+PRD00793,Industrial Rubber PK-936,Raw Materials,Industrial Rubber,1459.1,2258.61,80,76,3
+PRD00794,Switchgear MV-264,Electrical Components,Switchgear,2139.96,2856.1,372,171,29
+PRD00795,Bearing NP-782,Mechanical Components,Bearing,163.78,241.43,99,64,44
+PRD00796,Copper RZ-298,Raw Materials,Copper,1499.45,1726.95,153,147,30
+PRD00797,Copper ST-324,Raw Materials,Copper,239.17,360.99,333,151,28
+PRD00798,Power Module XJ-826,Electronic Components,Power Module,1674.65,2467.06,302,295,33
+PRD00799,Circuit Board EJ-925,Electronic Components,Circuit Board,2198.05,2983.41,306,294,33
+PRD00800,Shaft UJ-812,Mechanical Components,Shaft,1296.03,1676.66,315,186,28
+PRD00801,Pallet AT-056,Packaging,Pallet,795.78,1030.99,457,452,45
+PRD00802,Pump XM-742,Industrial Equipment,Pump,1935.83,2653.76,248,210,13
+PRD00803,Pump BW-122,Industrial Equipment,Pump,2231.85,2900.34,280,215,24
+PRD00804,Industrial Rubber MK-994,Raw Materials,Industrial Rubber,1519.69,2103.39,376,360,6
+PRD00805,Power Module OO-939,Electronic Components,Power Module,1481.28,2097.77,345,12,8
+PRD00806,Power Module SX-051,Electronic Components,Power Module,597.4,794.88,494,317,30
+PRD00807,Industrial Motor ME-728,Industrial Equipment,Industrial Motor,265.04,337.4,154,66,26
+PRD00808,Hydraulic System FE-526,Industrial Equipment,Hydraulic System,1221.73,1702.48,39,33,27
+PRD00809,Circuit Breaker OC-223,Electrical Components,Circuit Breaker,2376.57,3256.6,355,276,21
+PRD00810,Packaging Film AO-604,Packaging,Packaging Film,1860.27,2470.1,49,21,43
+PRD00811,Connector LC-331,Electrical Components,Connector,1587.09,1796.46,25,16,45
+PRD00812,Copper DP-975,Raw Materials,Copper,639.71,807.85,119,14,41
+PRD00813,Industrial Rubber MV-660,Raw Materials,Industrial Rubber,1183.87,1326.58,377,128,42
+PRD00814,Industrial Sensor NV-656,Electronic Components,Industrial Sensor,354.36,433.94,204,71,44
+PRD00815,Pump HP-998,Industrial Equipment,Pump,2428.97,3034.04,64,27,28
+PRD00816,Valve CD-081,Mechanical Components,Valve,1207.69,1435.03,227,160,15
+PRD00817,Steel IZ-038,Raw Materials,Steel,1528.9,1874.9,397,370,7
+PRD00818,Hydraulic System HW-086,Industrial Equipment,Hydraulic System,521.45,694.81,165,153,40
+PRD00819,Shaft CZ-034,Mechanical Components,Shaft,18.74,20.68,437,151,17
+PRD00820,Aluminium KB-447,Raw Materials,Aluminium,551.58,615.85,252,248,28
+PRD00821,Steel SH-490,Raw Materials,Steel,274.52,343.83,153,54,29
+PRD00822,Steel FU-277,Raw Materials,Steel,2007.45,2724.96,306,47,35
+PRD00823,Shaft XL-812,Mechanical Components,Shaft,1284.11,1582.11,79,75,19
+PRD00824,Industrial Rubber AU-826,Raw Materials,Industrial Rubber,2329.73,2978.93,148,123,27
+PRD00825,Polymer DL-702,Raw Materials,Polymer,222.3,306.26,414,134,24
+PRD00826,Connector QU-371,Electrical Components,Connector,289.03,362.83,479,310,4
+PRD00827,Transformer HT-211,Electrical Components,Transformer,1270.99,1898.1,152,27,27
+PRD00828,Pallet HT-751,Packaging,Pallet,1236.4,1750.76,366,127,23
+PRD00829,Cable KY-689,Electrical Components,Cable,2482.08,2877.15,284,284,3
+PRD00830,Protective Foam XK-860,Packaging,Protective Foam,690.46,882.1,147,83,8
+PRD00831,Cable KJ-592,Electrical Components,Cable,1057.46,1358.79,58,45,14
+PRD00832,Cable TT-206,Electrical Components,Cable,2269.49,3225.66,201,65,39
+PRD00833,Gear HI-742,Mechanical Components,Gear,1521.72,1885.74,402,359,15
+PRD00834,Switchgear WQ-309,Electrical Components,Switchgear,2060.36,3151.89,140,71,19
+PRD00835,Controller FI-077,Electronic Components,Controller,2053.89,2260.73,123,116,18
+PRD00836,Copper PN-097,Raw Materials,Copper,1592.82,1788.75,99,23,10
+PRD00837,Generator AC-977,Industrial Equipment,Generator,647.73,729.85,334,13,37
+PRD00838,Generator AP-199,Industrial Equipment,Generator,1511.47,2129.61,210,168,23
+PRD00839,Circuit Breaker OJ-849,Electrical Components,Circuit Breaker,290.65,369.92,464,150,34
+PRD00840,Relay JD-302,Electronic Components,Relay,1143.31,1447.51,163,111,17
+PRD00841,Aluminium CQ-502,Raw Materials,Aluminium,306.96,395.53,47,43,30
+PRD00842,Circuit Breaker VF-994,Electrical Components,Circuit Breaker,1879.19,2127.16,36,26,25
+PRD00843,Switchgear LK-016,Electrical Components,Switchgear,205.05,258.29,254,40,36
+PRD00844,Cable KY-499,Electrical Components,Cable,2354.61,3298.47,372,14,3
+PRD00845,Pallet VL-827,Packaging,Pallet,1698.28,2144.7,214,158,9
+PRD00846,Shaft XT-501,Mechanical Components,Shaft,1486.18,1641.57,333,142,14
+PRD00847,Copper EW-556,Raw Materials,Copper,1592.06,2405.57,141,78,33
+PRD00848,Copper SE-681,Raw Materials,Copper,1533.37,2289.57,207,57,34
+PRD00849,Switchgear VH-214,Electrical Components,Switchgear,1811.31,2090.71,234,189,26
+PRD00850,Valve SN-683,Mechanical Components,Valve,2256.62,2549.75,163,125,14
+PRD00851,Aluminium KU-901,Raw Materials,Aluminium,1337.25,1556.51,314,127,9
+PRD00852,Protective Foam US-817,Packaging,Protective Foam,34.21,44.13,431,130,38
+PRD00853,Connector MU-946,Electrical Components,Connector,741.13,977.33,120,28,12
+PRD00854,Transformer NW-489,Electrical Components,Transformer,1445.11,1618.06,110,63,34
+PRD00855,Relay FH-299,Electronic Components,Relay,311.89,421.48,293,171,34
+PRD00856,Shaft NO-772,Mechanical Components,Shaft,861.2,1229.9,307,300,6
+PRD00857,Transformer HB-430,Electrical Components,Transformer,1632.47,2416.91,373,93,6
+PRD00858,Circuit Board ZN-713,Electronic Components,Circuit Board,1732.77,2241.28,263,224,43
+PRD00859,Generator VW-660,Industrial Equipment,Generator,1684.05,2061.15,401,181,19
+PRD00860,Shaft OM-830,Mechanical Components,Shaft,769.25,1119.29,306,295,19
+PRD00861,Bearing TT-441,Mechanical Components,Bearing,1118.82,1632.66,230,41,25
+PRD00862,Packaging Film XA-885,Packaging,Packaging Film,2056.94,3056.41,121,83,39
+PRD00863,Packaging Film ZU-155,Packaging,Packaging Film,2292.0,2965.72,109,109,21
+PRD00864,Shaft LM-990,Mechanical Components,Shaft,800.57,1090.37,364,271,34
+PRD00865,Container EZ-557,Packaging,Container,931.08,1276.03,475,50,27
+PRD00866,Copper JO-027,Raw Materials,Copper,1765.44,2488.89,257,171,12
+PRD00867,Circuit Board DY-785,Electronic Components,Circuit Board,939.51,1104.01,235,171,42
+PRD00868,Polymer TK-608,Raw Materials,Polymer,1079.17,1256.33,454,46,8
+PRD00869,Circuit Board BN-588,Electronic Components,Circuit Board,2225.79,2794.8,136,50,23
+PRD00870,Protective Foam EJ-955,Packaging,Protective Foam,390.38,433.89,383,146,41
+PRD00871,Container YO-405,Packaging,Container,1616.33,2241.21,158,123,26
+PRD00872,Packaging Film MY-829,Packaging,Packaging Film,854.81,967.88,286,240,29
+PRD00873,Controller YW-291,Electronic Components,Controller,1027.02,1273.55,457,21,11
+PRD00874,Pallet RA-450,Packaging,Pallet,1694.42,2325.76,358,138,8
+PRD00875,Controller XC-173,Electronic Components,Controller,914.66,1095.81,223,36,9
+PRD00876,Generator TL-438,Industrial Equipment,Generator,2470.15,3221.82,300,37,4
+PRD00877,Circuit Breaker XM-150,Electrical Components,Circuit Breaker,1722.24,2003.39,411,52,9
+PRD00878,Coupling BZ-178,Mechanical Components,Coupling,1216.55,1353.28,99,20,44
+PRD00879,Cable MV-782,Electrical Components,Cable,1266.11,1941.97,137,73,21
+PRD00880,Switchgear XU-784,Electrical Components,Switchgear,963.6,1076.87,87,77,13
+PRD00881,Industrial Motor RI-218,Industrial Equipment,Industrial Motor,82.23,104.81,359,192,23
+PRD00882,Connector YT-307,Electrical Components,Connector,404.26,448.93,465,286,20
+PRD00883,Polymer TC-810,Raw Materials,Polymer,1891.75,2471.26,89,79,14
+PRD00884,Industrial Rubber DC-915,Raw Materials,Industrial Rubber,726.67,1093.67,253,171,43
+PRD00885,Polymer BK-184,Raw Materials,Polymer,294.77,451.05,288,283,22
+PRD00886,Valve MM-435,Mechanical Components,Valve,788.35,1182.35,296,126,8
+PRD00887,Cable UX-448,Electrical Components,Cable,1509.34,2221.78,207,115,19
+PRD00888,Circuit Board JK-714,Electronic Components,Circuit Board,2460.11,3025.4,25,10,36
+PRD00889,Circuit Board NJ-410,Electronic Components,Circuit Board,2403.03,3064.5,166,130,37
+PRD00890,Generator IW-813,Industrial Equipment,Generator,966.85,1211.63,406,254,22
+PRD00891,Generator JT-854,Industrial Equipment,Generator,1355.81,1585.44,428,159,41
+PRD00892,Industrial Sensor KE-493,Electronic Components,Industrial Sensor,1386.51,1863.15,300,201,15
+PRD00893,Circuit Breaker IC-495,Electrical Components,Circuit Breaker,1905.95,2811.55,243,111,18
+PRD00894,Power Module ER-020,Electronic Components,Power Module,1103.9,1364.48,444,203,17
+PRD00895,Bearing DF-016,Mechanical Components,Bearing,652.04,774.35,236,170,18
+PRD00896,Industrial Rubber TM-662,Raw Materials,Industrial Rubber,148.83,186.65,433,365,20
+PRD00897,Coupling WT-979,Mechanical Components,Coupling,679.27,1042.6,434,147,29
+PRD00898,Industrial Sensor FW-538,Electronic Components,Industrial Sensor,1396.48,1754.36,113,27,21
+PRD00899,Generator FZ-792,Industrial Equipment,Generator,1453.27,1689.63,336,241,20
+PRD00900,Packaging Film TR-717,Packaging,Packaging Film,1112.89,1537.8,271,106,23
+PRD00901,Pump OJ-773,Industrial Equipment,Pump,1224.8,1568.72,45,44,4
+PRD00902,Industrial Sensor ZL-945,Electronic Components,Industrial Sensor,2484.65,3717.39,164,78,11
+PRD00903,Container FB-557,Packaging,Container,1560.4,2116.25,392,14,17
+PRD00904,Pump WE-171,Industrial Equipment,Pump,1553.55,1849.64,27,25,16
+PRD00905,Valve XW-724,Mechanical Components,Valve,990.87,1107.55,179,137,26
+PRD00906,Transformer GG-992,Electrical Components,Transformer,1191.49,1601.79,189,30,12
+PRD00907,Compressor JP-615,Industrial Equipment,Compressor,573.24,879.24,417,210,7
+PRD00908,Polymer DZ-148,Raw Materials,Polymer,2274.09,3240.5,112,34,19
+PRD00909,Transformer NP-963,Electrical Components,Transformer,1335.8,1992.33,82,41,27
+PRD00910,Switchgear YE-827,Electrical Components,Switchgear,330.98,481.82,397,27,15
+PRD00911,Transformer BY-539,Electrical Components,Transformer,316.43,461.16,286,116,33
+PRD00912,Cable IS-695,Electrical Components,Cable,693.04,1035.88,499,175,13
+PRD00913,Industrial Box VT-321,Packaging,Industrial Box,2360.39,2754.48,401,291,36
+PRD00914,Compressor LM-971,Industrial Equipment,Compressor,1159.38,1787.12,266,162,15
+PRD00915,Bearing GC-758,Mechanical Components,Bearing,1211.1,1802.84,462,351,16
+PRD00916,Pump EM-246,Industrial Equipment,Pump,1473.89,1870.22,344,232,23
+PRD00917,Pump UF-196,Industrial Equipment,Pump,718.03,855.5,426,151,40
+PRD00918,Generator IL-013,Industrial Equipment,Generator,1905.69,2427.74,424,134,3
+PRD00919,Hydraulic System CI-022,Industrial Equipment,Hydraulic System,1280.63,1692.41,421,363,33
+PRD00920,Packaging Film KC-469,Packaging,Packaging Film,1445.31,2152.8,99,57,8
+PRD00921,Controller TK-335,Electronic Components,Controller,2451.94,3146.85,275,56,42
+PRD00922,Bearing FL-465,Mechanical Components,Bearing,2069.66,2988.67,50,32,44
+PRD00923,Relay ZI-098,Electronic Components,Relay,1435.95,2197.32,425,64,11
+PRD00924,Switchgear JD-405,Electrical Components,Switchgear,505.18,580.54,182,152,44
+PRD00925,Valve HS-085,Mechanical Components,Valve,2135.64,2771.24,395,108,4
+PRD00926,Container SL-036,Packaging,Container,2118.19,3181.29,203,195,11
+PRD00927,Bearing ZY-656,Mechanical Components,Bearing,160.83,240.85,268,234,38
+PRD00928,Coupling QL-683,Mechanical Components,Coupling,1123.56,1493.99,376,260,15
+PRD00929,Aluminium JY-723,Raw Materials,Aluminium,1568.35,2378.99,298,188,23
+PRD00930,Container SQ-562,Packaging,Container,52.69,69.27,160,151,13
+PRD00931,Hydraulic System EP-220,Industrial Equipment,Hydraulic System,1720.87,2452.62,99,67,21
+PRD00932,Coupling QB-027,Mechanical Components,Coupling,1732.87,2010.99,207,126,3
+PRD00933,Packaging Film PZ-212,Packaging,Packaging Film,751.99,948.58,214,197,14
+PRD00934,Hydraulic System BN-679,Industrial Equipment,Hydraulic System,2012.07,2465.67,458,196,42
+PRD00935,Circuit Board BJ-278,Electronic Components,Circuit Board,530.71,812.44,389,42,45
+PRD00936,Polymer OL-765,Raw Materials,Polymer,27.11,41.99,117,77,34
+PRD00937,Aluminium KF-690,Raw Materials,Aluminium,1693.67,2494.46,333,154,23
+PRD00938,Cable AI-384,Electrical Components,Cable,740.08,818.86,76,22,36
+PRD00939,Industrial Box CK-950,Packaging,Industrial Box,1845.98,2723.49,42,18,14
+PRD00940,Pump LE-751,Industrial Equipment,Pump,1852.49,2156.82,74,72,15
+PRD00941,Industrial Motor WX-128,Industrial Equipment,Industrial Motor,1884.8,2725.45,312,208,45
+PRD00942,Circuit Breaker FH-478,Electrical Components,Circuit Breaker,1648.06,2381.04,339,312,19
+PRD00943,Compressor EO-913,Industrial Equipment,Compressor,2115.57,2911.28,133,87,7
+PRD00944,Pump TN-189,Industrial Equipment,Pump,226.07,298.28,355,261,8
+PRD00945,Transformer XA-058,Electrical Components,Transformer,198.74,255.06,204,152,29
+PRD00946,Bearing EK-778,Mechanical Components,Bearing,1020.73,1153.12,441,325,20
+PRD00947,Steel ZS-565,Raw Materials,Steel,875.31,1006.56,395,46,22
+PRD00948,Pump SM-420,Industrial Equipment,Pump,2021.55,3085.81,285,59,9
+PRD00949,Pallet DO-494,Packaging,Pallet,185.43,283.67,292,207,15
+PRD00950,Relay KD-792,Electronic Components,Relay,1308.83,1616.15,356,137,39
+PRD00951,Pallet SF-490,Packaging,Pallet,196.77,260.78,305,295,29
+PRD00952,Industrial Box EY-128,Packaging,Industrial Box,1987.32,2818.4,412,336,39
+PRD00953,Valve NR-442,Mechanical Components,Valve,130.31,147.62,379,350,30
+PRD00954,Pump VH-440,Industrial Equipment,Pump,1010.17,1245.42,425,102,38
+PRD00955,Circuit Breaker VJ-929,Electrical Components,Circuit Breaker,584.8,717.23,192,178,13
+PRD00956,Industrial Rubber QY-752,Raw Materials,Industrial Rubber,2009.69,3051.02,246,100,23
+PRD00957,Copper ZH-372,Raw Materials,Copper,1015.73,1531.47,452,200,29
+PRD00958,Container JM-051,Packaging,Container,807.13,1060.89,442,381,23
+PRD00959,Aluminium XY-276,Raw Materials,Aluminium,568.94,789.81,308,289,16
+PRD00960,Circuit Breaker NK-372,Electrical Components,Circuit Breaker,2447.56,3357.0,494,391,19
+PRD00961,Valve WH-504,Mechanical Components,Valve,897.75,1249.24,249,111,3
+PRD00962,Industrial Box ZE-027,Packaging,Industrial Box,311.69,467.5,165,162,4
+PRD00963,Aluminium OY-478,Raw Materials,Aluminium,1260.19,1641.03,475,164,3
+PRD00964,Gear JH-674,Mechanical Components,Gear,1466.73,2025.78,129,119,23
+PRD00965,Compressor ZC-604,Industrial Equipment,Compressor,184.08,259.03,490,293,35
+PRD00966,Industrial Rubber RC-658,Raw Materials,Industrial Rubber,608.62,865.02,494,302,12
+PRD00967,Industrial Motor BN-185,Industrial Equipment,Industrial Motor,2057.22,3007.21,255,101,12
+PRD00968,Circuit Board RZ-454,Electronic Components,Circuit Board,1383.49,1845.68,207,159,18
+PRD00969,Circuit Board ZD-149,Electronic Components,Circuit Board,361.48,523.75,435,163,8
+PRD00970,Polymer HV-393,Raw Materials,Polymer,682.17,902.86,311,121,7
+PRD00971,Protective Foam AR-258,Packaging,Protective Foam,714.26,828.7,425,257,14
+PRD00972,Circuit Breaker AG-010,Electrical Components,Circuit Breaker,1575.75,1771.85,439,58,41
+PRD00973,Protective Foam WO-817,Packaging,Protective Foam,1872.87,2327.82,39,33,39
+PRD00974,Transformer CB-443,Electrical Components,Transformer,5.34,7.1,419,38,24
+PRD00975,Valve MQ-910,Mechanical Components,Valve,121.9,149.24,233,232,10
+PRD00976,Relay TH-391,Electronic Components,Relay,1768.91,1995.7,495,15,43
+PRD00977,Container YQ-192,Packaging,Container,2099.15,2312.67,47,29,36
+PRD00978,Compressor SL-921,Industrial Equipment,Compressor,620.83,889.9,296,86,23
+PRD00979,Aluminium QE-447,Raw Materials,Aluminium,794.09,909.91,98,16,28
+PRD00980,Circuit Breaker SQ-746,Electrical Components,Circuit Breaker,903.78,1104.13,314,268,8
+PRD00981,Power Module XE-542,Electronic Components,Power Module,2107.57,2615.51,168,110,12
+PRD00982,Circuit Board YV-406,Electronic Components,Circuit Board,1973.39,2962.73,62,40,39
+PRD00983,Industrial Box LC-044,Packaging,Industrial Box,1087.37,1641.36,300,214,19
+PRD00984,Generator NZ-173,Industrial Equipment,Generator,946.41,1451.64,276,232,11
+PRD00985,Power Module JI-271,Electronic Components,Power Module,227.78,320.98,306,111,34
+PRD00986,Circuit Breaker PG-639,Electrical Components,Circuit Breaker,1237.07,1576.57,120,81,42
+PRD00987,Packaging Film CE-741,Packaging,Packaging Film,1583.62,2243.57,146,72,7
+PRD00988,Valve XC-194,Mechanical Components,Valve,15.89,18.67,185,185,39
+PRD00989,Industrial Motor PO-072,Industrial Equipment,Industrial Motor,1784.05,2497.44,363,221,30
+PRD00990,Shaft RJ-006,Mechanical Components,Shaft,2415.29,3483.98,117,51,25
+PRD00991,Steel AG-569,Raw Materials,Steel,2377.18,3366.43,414,166,13
+PRD00992,Coupling ZU-776,Mechanical Components,Coupling,748.64,859.0,440,421,31
+PRD00993,Aluminium AY-183,Raw Materials,Aluminium,1955.65,2718.09,245,21,17
+PRD00994,Circuit Board IW-719,Electronic Components,Circuit Board,125.22,158.03,99,20,10
+PRD00995,Industrial Box DO-546,Packaging,Industrial Box,2392.22,3170.12,144,47,21
+PRD00996,Compressor VF-158,Industrial Equipment,Compressor,1084.66,1416.53,375,66,22
+PRD00997,Connector LJ-743,Electrical Components,Connector,526.16,666.08,31,20,16
+PRD00998,Packaging Film TS-063,Packaging,Packaging Film,927.68,1042.3,128,36,37
+PRD00999,Copper FF-615,Raw Materials,Copper,1920.08,2471.96,300,257,42
+PRD01000,Pallet CM-732,Packaging,Pallet,2056.34,3048.85,375,367,45

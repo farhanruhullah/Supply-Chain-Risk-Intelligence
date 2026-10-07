@@ -1,0 +1,31 @@
+CarrierID,CarrierName,CarrierType,Country,ServiceLevel
+CAR001,DHL Supply Chain,Rail Freight,Australia,Express
+CAR002,FedEx Logistics,Rail Freight,Netherlands,Standard
+CAR003,UPS Supply Chain,Rail Freight,Mexico,Economy
+CAR004,Maersk Logistics,Integrated Logistics,Italy,Standard
+CAR005,DB Schenker,Air Freight,United Kingdom,Priority
+CAR006,Kuehne + Nagel,Air Freight,Poland,Express
+CAR007,CEVA Logistics,Integrated Logistics,United Kingdom,Priority
+CAR008,DSV Logistics,Air Freight,Saudi Arabia,Priority
+CAR009,Nippon Express,Air Freight,United Kingdom,Express
+CAR010,Expeditors International,Rail Freight,Indonesia,Priority
+CAR011,Rojas-Smith Logistics,Road Freight,Indonesia,Priority
+CAR012,Brown and Sons Logistics,Rail Freight,South Korea,Economy
+CAR013,"Newman, Jenkins and Cooper Logistics",Air Freight,Mexico,Express
+CAR014,"Buchanan, Tucker and Wade Logistics",Rail Freight,Poland,Standard
+CAR015,"Wilkinson, Wallace and Torres Logistics",Integrated Logistics,Saudi Arabia,Standard
+CAR016,Villanueva LLC Logistics,Integrated Logistics,South Korea,Express
+CAR017,Mccormick and Sons Logistics,Rail Freight,Italy,Economy
+CAR018,Watson-Roberts Logistics,Air Freight,Poland,Express
+CAR019,Hernandez LLC Logistics,Integrated Logistics,Poland,Express
+CAR020,Huber-Montgomery Logistics,Air Freight,Poland,Economy
+CAR021,Joseph LLC Logistics,Ocean Freight,Germany,Standard
+CAR022,Mcpherson Ltd Logistics,Air Freight,Bangladesh,Priority
+CAR023,"Conway, Bauer and Martin Logistics",Road Freight,Brazil,Standard
+CAR024,Williams LLC Logistics,Rail Freight,United Kingdom,Express
+CAR025,"Martinez, Green and Lopez Logistics",Integrated Logistics,Italy,Priority
+CAR026,"Mann, Wade and Spence Logistics",Ocean Freight,India,Economy
+CAR027,Watson PLC Logistics,Ocean Freight,Canada,Express
+CAR028,Ferguson Inc Logistics,Ocean Freight,Australia,Express
+CAR029,Sullivan Group Logistics,Air Freight,Turkey,Priority
+CAR030,Gould LLC Logistics,Road Freight,Indonesia,Priority

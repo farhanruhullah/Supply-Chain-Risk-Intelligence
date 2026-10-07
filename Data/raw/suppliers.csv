@@ -1,0 +1,501 @@
+SupplierID,SupplierName,Country,Region,SupplierCategory,SupplierSince,QualityRating,RiskTier,ActiveStatus
+SUP0001,Figueroa and Sons,Brazil,South America,Industrial Equipment,2010-07-18,91.48,Medium,Active
+SUP0002,Doyle Ltd,Malaysia,Asia,Electronic Components,2014-05-08,87.03,Medium,Active
+SUP0003,Garza Inc,Argentina,South America,Electronic Components,2025-04-24,92.53,Medium,Active
+SUP0004,Robinson PLC,Canada,North America,Raw Materials,2007-10-09,98.66,Low,Active
+SUP0005,"Gonzalez, Santos and Gardner",Bangladesh,Asia,Raw Materials,2007-08-29,86.36,Medium,Active
+SUP0006,Lawrence-Pacheco,United States,North America,Electrical Components,2014-04-04,86.36,Medium,Active
+SUP0007,Wolfe LLC,Malaysia,Asia,Industrial Equipment,2006-12-23,99.05,Low,Active
+SUP0008,Lewis LLC,South Africa,Africa,Mechanical Components,2016-03-18,93.37,Medium,Active
+SUP0009,James LLC,UAE,Middle East,Industrial Equipment,2010-03-27,84.71,High,Active
+SUP0010,"Baker, Williams and Stevens",Japan,Asia,Chemicals,2018-06-17,91.8,Medium,Active
+SUP0011,Miller-Carter,Vietnam,Asia,Electronic Components,2011-01-02,84.76,High,Active
+SUP0012,"Lee, Jones and Stanley",France,Europe,Industrial Equipment,2019-01-23,84.74,High,Active
+SUP0013,Wyatt Inc,South Africa,Africa,Automotive Parts,2016-08-08,89.69,Medium,Active
+SUP0014,Chavez-Flowers,United States,North America,Electrical Components,2019-09-10,74.61,Critical,Active
+SUP0015,Kelly-Santiago,Bangladesh,Asia,Chemicals,2012-04-16,75.93,High,Active
+SUP0016,"Reid, Ferguson and Sanchez",Canada,North America,Electronic Components,2009-03-09,84.06,High,Active
+SUP0017,Nelson-Schaefer,India,Asia,Industrial Equipment,2022-06-26,80.91,High,Active
+SUP0018,Cohen Inc,Bangladesh,Asia,Electronic Components,2025-09-15,90.2,Medium,Active
+SUP0019,Trujillo Group,Italy,Europe,Chemicals,2014-07-20,81.64,High,Active
+SUP0020,Clark PLC,South Korea,Asia,Packaging,2015-11-13,78.11,High,Active
+SUP0021,Rios Group,Argentina,South America,Electronic Components,2017-06-18,98.26,Low,Active
+SUP0022,Baker and Sons,Mexico,North America,Packaging,2022-05-15,86.42,Medium,Active
+SUP0023,Burgess-Patterson,South Korea,Asia,Industrial Equipment,2025-02-04,88.47,Medium,Active
+SUP0024,Robinson-Bright,Brazil,South America,Packaging,2020-05-06,78.03,High,Active
+SUP0025,Davis-Williams,Argentina,South America,Raw Materials,2024-02-04,84.19,High,Active
+SUP0026,Burton Ltd,Malaysia,Asia,Chemicals,2010-06-27,88.78,Medium,Active
+SUP0027,"Brown, James and Ferrell",Italy,Europe,Packaging,2021-02-13,79.94,High,Active
+SUP0028,Maddox-Valencia,Canada,North America,Chemicals,2024-10-04,90.63,Medium,Active
+SUP0029,"Le, Maldonado and Herrera",Singapore,Asia,Electrical Components,2007-02-23,83.8,High,Active
+SUP0030,"Peterson, Carter and Moore",Brazil,South America,Industrial Equipment,2015-11-01,85.96,High,Active
+SUP0031,"Liu, Baker and Mason",Japan,Asia,Industrial Equipment,2006-11-13,83.79,High,Active
+SUP0032,"Gaines, Harrell and Evans",Saudi Arabia,Middle East,Electrical Components,2012-11-01,100.0,Low,Active
+SUP0033,"Gonzalez, Brooks and Martin",France,Europe,Mechanical Components,2024-01-12,87.91,Medium,Active
+SUP0034,George Group,United Kingdom,Europe,Raw Materials,2024-10-20,80.6,High,Active
+SUP0035,Hickman LLC,Australia,Oceania,Mechanical Components,2007-06-03,93.76,Medium,Active
+SUP0036,Allen PLC,South Africa,Africa,Electronic Components,2014-11-26,79.45,High,Active
+SUP0037,Dennis Inc,Italy,Europe,Automotive Parts,2009-06-08,89.46,Medium,Active
+SUP0038,Anderson Group,United Kingdom,Europe,Raw Materials,2024-11-18,74.28,Critical,Active
+SUP0039,Baker PLC,Argentina,South America,Industrial Equipment,2025-06-18,78.7,High,Active
+SUP0040,Hickman Ltd,Turkey,Middle East,Electronic Components,2021-02-25,89.38,Medium,Active
+SUP0041,"Collins, Carney and Santos",Indonesia,Asia,Automotive Parts,2013-08-07,93.17,Medium,Active
+SUP0042,"Hayes, Wright and Brown",China,Asia,Industrial Equipment,2021-08-30,89.2,Medium,Inactive
+SUP0043,"Spencer, Chapman and Smith",United Kingdom,Europe,Electronic Components,2007-06-22,87.19,Medium,Active
+SUP0044,Jones Inc,Australia,Oceania,Packaging,2008-10-04,85.89,High,Active
+SUP0045,Palmer LLC,Japan,Asia,Mechanical Components,2017-12-31,77.65,High,Active
+SUP0046,Ryan Ltd,United States,North America,Raw Materials,2023-04-10,82.96,High,Inactive
+SUP0047,Mueller Group,Mexico,North America,Raw Materials,2022-11-03,84.78,High,Active
+SUP0048,Davis Group,Vietnam,Asia,Industrial Equipment,2013-03-27,95.4,Low,Active
+SUP0049,Jenkins-Shields,Malaysia,Asia,Electronic Components,2018-10-24,90.41,Medium,Active
+SUP0050,"Valdez, Lucas and Brown",Bangladesh,Asia,Electronic Components,2008-08-07,75.66,High,Active
+SUP0051,Wright and Sons,Turkey,Middle East,Mechanical Components,2018-04-20,90.27,Medium,Active
+SUP0052,Taylor-White,Japan,Asia,Mechanical Components,2025-01-01,85.3,High,Active
+SUP0053,Baxter Inc,Thailand,Asia,Electrical Components,2022-07-01,83.26,High,Active
+SUP0054,"Garcia, Pearson and Fernandez",Singapore,Asia,Packaging,2021-11-01,92.28,Medium,Active
+SUP0055,House and Sons,UAE,Middle East,Chemicals,2007-04-05,95.22,Low,Active
+SUP0056,Tucker-Lewis,Poland,Europe,Automotive Parts,2012-05-31,94.52,Low,Active
+SUP0057,Martin Inc,Vietnam,Asia,Electronic Components,2020-05-26,82.13,High,Active
+SUP0058,House-Glover,Germany,Europe,Packaging,2020-01-15,85.84,High,Active
+SUP0059,Horton-Cross,Canada,North America,Electronic Components,2016-06-17,90.32,Medium,Active
+SUP0060,"Higgins, Moore and Phillips",UAE,Middle East,Packaging,2025-08-31,94.83,Low,Active
+SUP0061,"Fitzgerald, Brown and Edwards",Bangladesh,Asia,Chemicals,2008-09-29,84.65,High,Active
+SUP0062,"Woods, Calhoun and Schmidt",Bangladesh,Asia,Industrial Equipment,2008-06-18,86.7,Medium,Active
+SUP0063,"Miller, Lopez and Larson",Argentina,South America,Mechanical Components,2008-09-09,80.26,High,Active
+SUP0064,Wilson-Zamora,Saudi Arabia,Middle East,Automotive Parts,2014-10-05,79.63,High,Active
+SUP0065,"Wheeler, Harvey and Barnes",Malaysia,Asia,Electrical Components,2015-02-18,93.69,Medium,Active
+SUP0066,Donovan-Harris,Singapore,Asia,Electrical Components,2024-07-17,97.49,Low,Active
+SUP0067,Baker and Sons,France,Europe,Automotive Parts,2017-06-12,87.5,Medium,Active
+SUP0068,Stewart-Walton,Australia,Oceania,Electronic Components,2016-12-18,95.02,Low,Active
+SUP0069,Ellis PLC,India,Asia,Chemicals,2009-03-23,90.53,Medium,Active
+SUP0070,Medina PLC,South Africa,Africa,Packaging,2010-02-27,83.48,High,Active
+SUP0071,Mahoney Inc,Singapore,Asia,Automotive Parts,2015-10-12,90.53,Medium,Active
+SUP0072,Mitchell-Kim,Japan,Asia,Industrial Equipment,2015-01-25,98.77,Low,Active
+SUP0073,"Turner, Riggs and Roman",Poland,Europe,Electronic Components,2025-03-28,87.75,Medium,Active
+SUP0074,Contreras PLC,Poland,Europe,Electronic Components,2024-10-02,98.95,Low,Active
+SUP0075,"Garcia, Humphrey and Baker",India,Asia,Raw Materials,2016-12-10,69.66,Critical,Active
+SUP0076,"Tran, Nelson and Jacobs",Bangladesh,Asia,Packaging,2010-05-26,93.75,Medium,Active
+SUP0077,Watts LLC,South Korea,Asia,Automotive Parts,2018-06-04,88.61,Medium,Active
+SUP0078,King-Odonnell,Singapore,Asia,Raw Materials,2023-12-15,85.91,High,Active
+SUP0079,Walters LLC,South Korea,Asia,Electrical Components,2008-06-26,88.64,Medium,Active
+SUP0080,Cook and Sons,Thailand,Asia,Automotive Parts,2008-04-03,74.09,Critical,Active
+SUP0081,Figueroa PLC,Indonesia,Asia,Automotive Parts,2015-09-02,86.46,Medium,Active
+SUP0082,"Smith, Jones and Ware",Japan,Asia,Packaging,2021-04-23,90.5,Medium,Active
+SUP0083,"Johnson, Wood and Tran",India,Asia,Raw Materials,2011-10-30,98.35,Low,Active
+SUP0084,Williams LLC,Saudi Arabia,Middle East,Raw Materials,2021-05-19,84.37,High,Active
+SUP0085,Clark-Wright,Canada,North America,Mechanical Components,2008-02-11,82.34,High,Active
+SUP0086,Deleon-Henson,India,Asia,Electronic Components,2010-04-03,84.49,High,Inactive
+SUP0087,"Brady, Frost and Young",Australia,Oceania,Electronic Components,2020-08-01,94.41,Low,Active
+SUP0088,Keith Inc,Argentina,South America,Electrical Components,2012-04-14,90.3,Medium,Active
+SUP0089,"Middleton, Patton and Jenkins",Vietnam,Asia,Packaging,2012-11-10,84.29,High,Active
+SUP0090,Moore-Haynes,Canada,North America,Electronic Components,2015-03-15,91.59,Medium,Active
+SUP0091,Garrison and Sons,Netherlands,Europe,Chemicals,2019-10-10,88.68,Medium,Active
+SUP0092,Bailey-Hoover,Thailand,Asia,Chemicals,2013-07-19,94.78,Low,Active
+SUP0093,Johnson and Sons,Malaysia,Asia,Mechanical Components,2014-07-02,83.09,High,Active
+SUP0094,Ramirez-Jones,Argentina,South America,Automotive Parts,2020-04-24,85.71,High,Active
+SUP0095,May-Ross,Germany,Europe,Electronic Components,2016-04-02,85.26,High,Active
+SUP0096,Crosby-Wilson,China,Asia,Electronic Components,2024-12-31,77.76,High,Active
+SUP0097,Carpenter LLC,Bangladesh,Asia,Industrial Equipment,2015-08-24,90.07,Medium,Active
+SUP0098,Carlson LLC,Japan,Asia,Electronic Components,2008-01-22,89.83,Medium,Active
+SUP0099,Obrien-Dixon,Malaysia,Asia,Mechanical Components,2017-06-06,88.04,Medium,Active
+SUP0100,"Lee, Williams and Graham",Poland,Europe,Industrial Equipment,2019-11-12,86.36,Medium,Active
+SUP0101,"Mcdaniel, Bentley and Mclaughlin",Mexico,North America,Raw Materials,2024-06-12,78.09,High,Inactive
+SUP0102,Reynolds-Rush,Argentina,South America,Industrial Equipment,2013-06-17,85.06,High,Active
+SUP0103,"Edwards, Charles and Cortez",Argentina,South America,Mechanical Components,2017-12-28,85.6,High,Active
+SUP0104,"Parker, Ortiz and Powell",Thailand,Asia,Electronic Components,2016-12-22,82.38,High,Active
+SUP0105,"Martinez, Fisher and Bentley",Saudi Arabia,Middle East,Industrial Equipment,2016-10-25,86.87,Medium,Active
+SUP0106,"Carroll, Sullivan and Bass",Indonesia,Asia,Chemicals,2012-09-04,90.83,Medium,Active
+SUP0107,Clark-Floyd,Singapore,Asia,Industrial Equipment,2017-02-04,100.0,Low,Active
+SUP0108,Ramos-Lowe,United Kingdom,Europe,Raw Materials,2017-09-20,89.22,Medium,Active
+SUP0109,Leon-Moyer,Bangladesh,Asia,Industrial Equipment,2024-02-24,89.8,Medium,Active
+SUP0110,"Miller, Robertson and Schultz",India,Asia,Mechanical Components,2012-07-12,87.48,Medium,Active
+SUP0111,Cardenas and Sons,Brazil,South America,Mechanical Components,2018-02-28,74.57,Critical,Inactive
+SUP0112,Drake and Sons,Saudi Arabia,Middle East,Electrical Components,2017-04-26,87.81,Medium,Active
+SUP0113,Sanchez Group,United States,North America,Electronic Components,2007-08-03,88.42,Medium,Active
+SUP0114,Perry-Soto,UAE,Middle East,Raw Materials,2009-03-27,100.0,Low,Active
+SUP0115,"Horton, Snyder and Sanchez",Egypt,Africa,Mechanical Components,2013-05-16,86.65,Medium,Active
+SUP0116,Osborne and Sons,Netherlands,Europe,Industrial Equipment,2006-12-11,90.11,Medium,Active
+SUP0117,"Holmes, Williams and Wright",France,Europe,Raw Materials,2012-09-27,87.76,Medium,Active
+SUP0118,Anderson-Marshall,France,Europe,Packaging,2010-11-20,79.82,High,Active
+SUP0119,"Larson, Dodson and Vance",Argentina,South America,Electrical Components,2024-10-29,96.0,Low,Active
+SUP0120,Rivas-Kelley,Mexico,North America,Packaging,2023-12-07,93.26,Medium,Active
+SUP0121,"Hensley, Cole and Walton",Australia,Oceania,Mechanical Components,2012-03-03,93.54,Medium,Active
+SUP0122,"Washington, Allen and Gonzales",Netherlands,Europe,Chemicals,2016-03-11,81.63,High,Active
+SUP0123,Nelson LLC,South Africa,Africa,Packaging,2016-06-23,97.82,Low,Active
+SUP0124,Taylor and Sons,Thailand,Asia,Electronic Components,2025-02-18,78.19,High,Active
+SUP0125,"Hernandez, Lewis and Perry",Italy,Europe,Automotive Parts,2019-10-16,92.11,Medium,Active
+SUP0126,"Owens, Brown and Wall",Malaysia,Asia,Automotive Parts,2018-01-06,100.0,Low,Active
+SUP0127,"Shah, Smith and Gilmore",France,Europe,Packaging,2020-01-04,81.07,High,Active
+SUP0128,Smith-Bell,Malaysia,Asia,Packaging,2019-09-13,84.04,High,Active
+SUP0129,Medina-Navarro,Italy,Europe,Electronic Components,2020-01-10,88.7,Medium,Active
+SUP0130,Robinson-Graham,Turkey,Middle East,Electrical Components,2014-04-05,84.48,High,Active
+SUP0131,Rogers-Shelton,Argentina,South America,Chemicals,2007-09-29,77.15,High,Inactive
+SUP0132,"Martin, Mcdonald and Anderson",China,Asia,Industrial Equipment,2020-07-06,88.48,Medium,Active
+SUP0133,Meadows PLC,South Korea,Asia,Industrial Equipment,2024-12-05,80.56,High,Active
+SUP0134,Day and Sons,India,Asia,Electrical Components,2007-09-05,91.32,Medium,Active
+SUP0135,Williams Group,France,Europe,Chemicals,2022-06-19,81.56,High,Active
+SUP0136,Gibson LLC,Netherlands,Europe,Electronic Components,2017-11-23,98.85,Low,Active
+SUP0137,Walton-Decker,Italy,Europe,Packaging,2019-08-28,82.52,High,Active
+SUP0138,Ruiz Ltd,Thailand,Asia,Electrical Components,2015-05-05,85.75,High,Active
+SUP0139,Cooke LLC,China,Asia,Packaging,2025-02-09,93.69,Medium,Active
+SUP0140,"Jones, Bernard and Williams",France,Europe,Chemicals,2014-05-21,79.38,High,Active
+SUP0141,Gonzalez Inc,Mexico,North America,Electronic Components,2007-10-24,89.59,Medium,Active
+SUP0142,Martinez Ltd,Saudi Arabia,Middle East,Industrial Equipment,2011-12-10,97.15,Low,Active
+SUP0143,"Gould, Marshall and Scott",Argentina,South America,Electrical Components,2010-08-25,76.75,High,Active
+SUP0144,Obrien Ltd,UAE,Middle East,Mechanical Components,2019-04-23,89.29,Medium,Active
+SUP0145,Oconnell Inc,Singapore,Asia,Electrical Components,2010-08-27,89.82,Medium,Active
+SUP0146,Johnston-Odonnell,Argentina,South America,Mechanical Components,2007-08-19,93.47,Medium,Active
+SUP0147,David-Gonzalez,Mexico,North America,Electrical Components,2019-07-12,79.34,High,Active
+SUP0148,Terry LLC,United States,North America,Industrial Equipment,2015-01-08,78.76,High,Active
+SUP0149,"Patton, Reed and Patterson",Indonesia,Asia,Chemicals,2010-11-16,91.65,Medium,Active
+SUP0150,Hunter LLC,Poland,Europe,Packaging,2019-05-14,90.08,Medium,Active
+SUP0151,Short-Garcia,United Kingdom,Europe,Mechanical Components,2007-03-10,89.75,Medium,Active
+SUP0152,"Snow, Stevens and Hernandez",Argentina,South America,Chemicals,2019-01-30,90.43,Medium,Active
+SUP0153,"Boyd, Santos and Gilbert",Bangladesh,Asia,Packaging,2012-09-30,83.24,High,Active
+SUP0154,Marshall-Petersen,Argentina,South America,Packaging,2025-01-25,89.63,Medium,Active
+SUP0155,Christian-Rivas,Japan,Asia,Packaging,2015-11-21,90.05,Medium,Active
+SUP0156,Keith-Sanchez,Spain,Europe,Electronic Components,2009-09-15,83.0,High,Active
+SUP0157,"Bishop, Gray and Johnson",Poland,Europe,Packaging,2022-07-27,100.0,Low,Active
+SUP0158,Freeman LLC,UAE,Middle East,Automotive Parts,2017-10-25,91.32,Medium,Active
+SUP0159,Ramirez-Carlson,Italy,Europe,Raw Materials,2015-07-19,79.66,High,Active
+SUP0160,"Smith, Vaughan and Miller",Turkey,Middle East,Electronic Components,2016-02-27,92.6,Medium,Active
+SUP0161,Peters-Allen,Turkey,Middle East,Mechanical Components,2020-08-01,81.18,High,Active
+SUP0162,"Joseph, West and Smith",South Africa,Africa,Automotive Parts,2022-12-15,93.51,Medium,Inactive
+SUP0163,Sullivan and Sons,India,Asia,Electronic Components,2016-10-07,96.11,Low,Active
+SUP0164,"Perkins, Kennedy and Schmidt",Poland,Europe,Automotive Parts,2017-03-05,82.26,High,Active
+SUP0165,"Pierce, Bell and Chavez",Argentina,South America,Chemicals,2021-03-26,94.74,Low,Active
+SUP0166,Hall-Griffith,Turkey,Middle East,Electrical Components,2017-03-10,90.89,Medium,Active
+SUP0167,Newton Ltd,Egypt,Africa,Automotive Parts,2017-06-29,93.75,Medium,Active
+SUP0168,Robinson Group,South Korea,Asia,Automotive Parts,2013-01-20,100.0,Low,Active
+SUP0169,"Lawrence, Wolf and Carlson",Poland,Europe,Packaging,2016-03-01,86.28,Medium,Active
+SUP0170,Phillips LLC,Egypt,Africa,Automotive Parts,2010-03-06,82.72,High,Active
+SUP0171,Smith-Ferguson,Brazil,South America,Automotive Parts,2012-11-11,81.77,High,Active
+SUP0172,Mccann PLC,Bangladesh,Asia,Packaging,2016-02-03,82.29,High,Active
+SUP0173,"Raymond, Little and Mullins",Thailand,Asia,Electronic Components,2016-09-11,87.46,Medium,Active
+SUP0174,Andrews Group,Japan,Asia,Electrical Components,2010-03-31,90.39,Medium,Active
+SUP0175,Peterson-Sheppard,UAE,Middle East,Packaging,2023-01-17,89.94,Medium,Active
+SUP0176,Wilson-Jones,Bangladesh,Asia,Chemicals,2015-05-07,93.79,Medium,Active
+SUP0177,Ray Ltd,United States,North America,Raw Materials,2023-06-28,88.09,Medium,Active
+SUP0178,Hernandez PLC,Singapore,Asia,Electrical Components,2008-07-31,98.17,Low,Active
+SUP0179,Mcknight Inc,Turkey,Middle East,Raw Materials,2017-02-03,86.15,Medium,Active
+SUP0180,Obrien-Gibbs,Australia,Oceania,Electrical Components,2025-09-29,100.0,Low,Active
+SUP0181,"James, Kerr and Evans",Spain,Europe,Chemicals,2014-06-08,92.38,Medium,Active
+SUP0182,Carroll-Brown,Indonesia,Asia,Electrical Components,2021-05-07,82.0,High,Active
+SUP0183,Garrett LLC,United States,North America,Packaging,2010-02-18,80.5,High,Active
+SUP0184,Allen PLC,Spain,Europe,Electrical Components,2009-07-08,91.38,Medium,Active
+SUP0185,Smith Group,Spain,Europe,Chemicals,2009-04-23,86.44,Medium,Active
+SUP0186,Johnson-Roberts,Argentina,South America,Electrical Components,2022-09-29,93.0,Medium,Active
+SUP0187,"Heath, Jones and Hall",Saudi Arabia,Middle East,Automotive Parts,2016-05-17,91.31,Medium,Active
+SUP0188,"Lawrence, Lara and Gonzalez",Japan,Asia,Raw Materials,2015-10-04,87.49,Medium,Inactive
+SUP0189,"Walker, Hernandez and Baker",Italy,Europe,Raw Materials,2010-08-30,82.07,High,Active
+SUP0190,Brown LLC,Bangladesh,Asia,Mechanical Components,2011-08-06,77.4,High,Active
+SUP0191,Martinez-Barker,Australia,Oceania,Raw Materials,2016-07-29,84.87,High,Active
+SUP0192,Mason-Snyder,Thailand,Asia,Packaging,2020-06-14,93.99,Medium,Active
+SUP0193,"Williams, Reynolds and Morris",Poland,Europe,Electrical Components,2009-06-29,89.5,Medium,Active
+SUP0194,Davis Ltd,Thailand,Asia,Electrical Components,2015-04-11,79.28,High,Active
+SUP0195,"Underwood, Johnston and Hines",Thailand,Asia,Automotive Parts,2007-06-18,89.21,Medium,Active
+SUP0196,Stone-Ramos,China,Asia,Raw Materials,2012-09-19,90.7,Medium,Active
+SUP0197,Shea Group,France,Europe,Electronic Components,2016-03-21,81.81,High,Active
+SUP0198,Harrison Group,Turkey,Middle East,Raw Materials,2023-06-27,89.08,Medium,Inactive
+SUP0199,Santiago-Hodge,Turkey,Middle East,Packaging,2018-02-05,88.41,Medium,Active
+SUP0200,Steele-Roberts,Singapore,Asia,Mechanical Components,2017-12-23,80.0,High,Active
+SUP0201,"Johnson, Miller and King",Malaysia,Asia,Electronic Components,2020-05-19,90.5,Medium,Active
+SUP0202,Hancock-Bryan,Canada,North America,Automotive Parts,2010-09-13,91.93,Medium,Active
+SUP0203,"Booth, Murray and Brown",UAE,Middle East,Chemicals,2006-10-18,95.58,Low,Active
+SUP0204,Dean-Jimenez,South Korea,Asia,Electronic Components,2024-05-24,95.38,Low,Active
+SUP0205,Harris PLC,Turkey,Middle East,Industrial Equipment,2021-10-18,78.36,High,Active
+SUP0206,Kim-Wolfe,Vietnam,Asia,Industrial Equipment,2011-03-20,81.44,High,Active
+SUP0207,Dudley PLC,Canada,North America,Electrical Components,2010-11-21,91.61,Medium,Active
+SUP0208,"Moore, Pierce and Tran",Italy,Europe,Packaging,2014-11-24,91.6,Medium,Active
+SUP0209,Gay Inc,Bangladesh,Asia,Packaging,2009-12-05,91.61,Medium,Active
+SUP0210,Holland and Sons,Vietnam,Asia,Industrial Equipment,2022-06-16,100.0,Low,Active
+SUP0211,"Carter, Thornton and Perry",Australia,Oceania,Electronic Components,2023-09-18,92.0,Medium,Active
+SUP0212,Sanchez-Arnold,South Africa,Africa,Raw Materials,2023-03-05,95.95,Low,Inactive
+SUP0213,Weeks PLC,France,Europe,Chemicals,2019-10-23,94.68,Low,Active
+SUP0214,Hill Group,Bangladesh,Asia,Chemicals,2011-05-27,92.56,Medium,Active
+SUP0215,"Adams, Smith and Barber",China,Asia,Automotive Parts,2018-04-27,85.79,High,Active
+SUP0216,Griffin Group,Vietnam,Asia,Chemicals,2023-06-02,93.31,Medium,Active
+SUP0217,Arnold-Daniels,Brazil,South America,Automotive Parts,2018-07-02,82.59,High,Active
+SUP0218,Kane-Pollard,UAE,Middle East,Mechanical Components,2022-04-01,86.34,Medium,Active
+SUP0219,"Reyes, Chase and Jenkins",Saudi Arabia,Middle East,Industrial Equipment,2014-11-18,84.6,High,Active
+SUP0220,"Kennedy, Mcintyre and James",Mexico,North America,Automotive Parts,2017-08-01,88.57,Medium,Active
+SUP0221,Hanna-Martinez,Poland,Europe,Industrial Equipment,2011-12-07,100.0,Low,Active
+SUP0222,Sawyer Group,Germany,Europe,Electronic Components,2018-01-19,74.93,Critical,Active
+SUP0223,"Lozano, Smith and Thomas",Thailand,Asia,Packaging,2010-02-24,92.8,Medium,Active
+SUP0224,Harrison LLC,Turkey,Middle East,Electrical Components,2012-01-04,76.71,High,Active
+SUP0225,"Schwartz, Santos and Christian",Germany,Europe,Chemicals,2018-04-11,84.7,High,Active
+SUP0226,Finley-Sims,South Korea,Asia,Chemicals,2024-11-29,95.62,Low,Active
+SUP0227,"Johnson, Jones and Welch",South Africa,Africa,Industrial Equipment,2023-05-12,88.45,Medium,Active
+SUP0228,Francis Group,Mexico,North America,Industrial Equipment,2016-07-14,80.46,High,Active
+SUP0229,"Padilla, Garcia and Jackson",United States,North America,Packaging,2010-02-08,82.99,High,Active
+SUP0230,Williams Inc,Bangladesh,Asia,Electrical Components,2016-12-11,92.76,Medium,Active
+SUP0231,Brooks-Thomas,Spain,Europe,Packaging,2016-09-26,82.89,High,Active
+SUP0232,Knight-Sparks,UAE,Middle East,Automotive Parts,2024-10-30,89.52,Medium,Active
+SUP0233,Miller Group,Poland,Europe,Electronic Components,2012-07-16,88.32,Medium,Active
+SUP0234,Durham-Thomas,Indonesia,Asia,Packaging,2014-12-13,83.44,High,Active
+SUP0235,"King, Scott and Smith",Indonesia,Asia,Chemicals,2022-06-12,100.0,Low,Active
+SUP0236,Byrd-Moore,Spain,Europe,Chemicals,2022-08-02,92.44,Medium,Active
+SUP0237,Huerta-Evans,Netherlands,Europe,Chemicals,2021-10-14,73.82,Critical,Inactive
+SUP0238,"Wright, Bruce and Gonzalez",France,Europe,Industrial Equipment,2021-03-12,89.31,Medium,Active
+SUP0239,Rodriguez-James,Indonesia,Asia,Electronic Components,2019-11-05,83.37,High,Active
+SUP0240,"Phillips, Lyons and Johnson",Saudi Arabia,Middle East,Electronic Components,2018-12-20,93.97,Medium,Active
+SUP0241,Smith-Grimes,Saudi Arabia,Middle East,Mechanical Components,2020-03-22,82.45,High,Active
+SUP0242,"Mcgee, Wall and Leach",Singapore,Asia,Automotive Parts,2008-06-04,87.2,Medium,Active
+SUP0243,"Pham, Robinson and Lee",Thailand,Asia,Industrial Equipment,2014-08-02,91.53,Medium,Active
+SUP0244,"Campos, Saunders and Becker",Vietnam,Asia,Industrial Equipment,2015-04-14,94.06,Low,Active
+SUP0245,"Davis, Burton and Williams",Malaysia,Asia,Industrial Equipment,2011-05-30,79.6,High,Active
+SUP0246,Riley Ltd,China,Asia,Mechanical Components,2021-10-03,85.66,High,Active
+SUP0247,Browning LLC,Thailand,Asia,Raw Materials,2011-03-25,84.68,High,Active
+SUP0248,Gonzalez PLC,United States,North America,Mechanical Components,2020-11-22,83.43,High,Active
+SUP0249,"Shaw, Nelson and Martin",Brazil,South America,Automotive Parts,2019-03-16,100.0,Low,Active
+SUP0250,Francis-Morgan,Vietnam,Asia,Industrial Equipment,2023-02-25,90.83,Medium,Active
+SUP0251,Mccarty-Taylor,Spain,Europe,Chemicals,2010-09-04,79.17,High,Active
+SUP0252,"Ramsey, Whitney and Coffey",South Korea,Asia,Industrial Equipment,2014-06-07,94.43,Low,Inactive
+SUP0253,Davis-Foster,Australia,Oceania,Electronic Components,2025-09-20,100.0,Low,Active
+SUP0254,"Martinez, Richardson and Curry",Italy,Europe,Raw Materials,2015-10-03,95.23,Low,Active
+SUP0255,"James, Little and Watson",Japan,Asia,Industrial Equipment,2015-09-05,77.36,High,Active
+SUP0256,Johnson-Henson,Bangladesh,Asia,Electronic Components,2014-09-17,84.61,High,Inactive
+SUP0257,"Walker, Brown and Colon",United States,North America,Packaging,2017-12-01,96.87,Low,Active
+SUP0258,"Ortiz, Taylor and Shah",Turkey,Middle East,Automotive Parts,2017-01-14,83.05,High,Active
+SUP0259,Wilson-Young,Poland,Europe,Electrical Components,2017-02-10,91.11,Medium,Active
+SUP0260,Price LLC,Indonesia,Asia,Raw Materials,2025-01-17,93.42,Medium,Active
+SUP0261,Matthews-Barber,Mexico,North America,Electronic Components,2025-02-19,81.51,High,Inactive
+SUP0262,"Garcia, Burns and Russell",Turkey,Middle East,Packaging,2020-11-15,87.58,Medium,Active
+SUP0263,Vaughn and Sons,Thailand,Asia,Mechanical Components,2016-04-10,65.31,Critical,Active
+SUP0264,Sampson-Foley,Malaysia,Asia,Electronic Components,2021-11-04,80.83,High,Active
+SUP0265,"Richardson, Winters and Newman",South Korea,Asia,Automotive Parts,2010-02-19,86.23,Medium,Active
+SUP0266,Hill-Donaldson,UAE,Middle East,Industrial Equipment,2008-10-25,79.27,High,Active
+SUP0267,Bates Ltd,India,Asia,Industrial Equipment,2022-03-25,99.43,Low,Active
+SUP0268,Buchanan and Sons,UAE,Middle East,Electronic Components,2007-06-26,77.99,High,Active
+SUP0269,"Harris, Gallegos and Spencer",Argentina,South America,Industrial Equipment,2011-01-15,84.92,High,Active
+SUP0270,Murphy and Sons,South Africa,Africa,Packaging,2014-02-07,88.92,Medium,Active
+SUP0271,Garrison-Thomas,Netherlands,Europe,Packaging,2006-11-08,98.09,Low,Active
+SUP0272,"King, Thompson and Guerrero",Brazil,South America,Industrial Equipment,2011-03-07,77.95,High,Active
+SUP0273,Smith and Sons,Egypt,Africa,Raw Materials,2007-08-20,96.14,Low,Active
+SUP0274,Thompson Inc,South Korea,Asia,Industrial Equipment,2017-10-09,88.07,Medium,Active
+SUP0275,"Fisher, Wilson and Brown",Poland,Europe,Industrial Equipment,2011-01-26,81.13,High,Active
+SUP0276,Palmer-Rodriguez,UAE,Middle East,Industrial Equipment,2022-01-03,91.23,Medium,Active
+SUP0277,Dougherty Inc,United Kingdom,Europe,Automotive Parts,2023-11-25,89.39,Medium,Active
+SUP0278,Ellis-Maynard,Bangladesh,Asia,Electrical Components,2024-07-01,83.8,High,Active
+SUP0279,Boone-Simmons,Saudi Arabia,Middle East,Industrial Equipment,2008-10-28,88.49,Medium,Active
+SUP0280,Joseph-Wallace,China,Asia,Raw Materials,2010-06-06,85.3,High,Active
+SUP0281,Franklin-Jones,Turkey,Middle East,Industrial Equipment,2009-07-04,88.79,Medium,Active
+SUP0282,"Schultz, Kelley and Nguyen",Canada,North America,Mechanical Components,2016-02-11,92.63,Medium,Active
+SUP0283,Chavez-Jacobs,Spain,Europe,Automotive Parts,2024-10-22,99.1,Low,Active
+SUP0284,"Wilson, Pena and Rich",Thailand,Asia,Electrical Components,2010-02-17,79.34,High,Active
+SUP0285,"Glenn, Jordan and Beasley",Brazil,South America,Electronic Components,2025-07-07,100.0,Low,Active
+SUP0286,Wilcox-Ross,Spain,Europe,Chemicals,2020-11-01,74.34,Critical,Active
+SUP0287,Simmons-Ortega,Germany,Europe,Mechanical Components,2009-12-28,86.94,Medium,Active
+SUP0288,Mcdaniel Group,Germany,Europe,Automotive Parts,2019-06-29,92.12,Medium,Active
+SUP0289,Decker Inc,Indonesia,Asia,Electrical Components,2009-01-15,89.97,Medium,Active
+SUP0290,Garner LLC,Egypt,Africa,Raw Materials,2021-06-14,83.64,High,Active
+SUP0291,"Brown, Frye and Hoffman",Poland,Europe,Industrial Equipment,2011-03-09,86.54,Medium,Active
+SUP0292,Gomez-Ortega,Germany,Europe,Electrical Components,2010-12-01,84.55,High,Active
+SUP0293,"Williams, Roberts and Edwards",Australia,Oceania,Raw Materials,2021-02-23,83.87,High,Active
+SUP0294,"Romero, Moore and Olson",Argentina,South America,Automotive Parts,2010-04-13,93.95,Medium,Active
+SUP0295,Bruce-Richardson,Netherlands,Europe,Chemicals,2010-06-09,90.5,Medium,Active
+SUP0296,"Perez, Patterson and Hoffman",Mexico,North America,Automotive Parts,2016-03-26,83.15,High,Active
+SUP0297,Lynch Ltd,Turkey,Middle East,Industrial Equipment,2025-09-12,94.3,Low,Active
+SUP0298,White Ltd,United States,North America,Industrial Equipment,2015-11-09,90.15,Medium,Active
+SUP0299,Bell-White,Poland,Europe,Automotive Parts,2017-04-08,93.69,Medium,Active
+SUP0300,"Sandoval, Jones and Figueroa",Vietnam,Asia,Packaging,2011-08-19,92.41,Medium,Active
+SUP0301,Reese and Sons,UAE,Middle East,Raw Materials,2007-10-19,82.2,High,Active
+SUP0302,Chavez-Moore,United States,North America,Packaging,2019-07-23,84.08,High,Active
+SUP0303,"Nguyen, Pugh and Carlson",Egypt,Africa,Automotive Parts,2017-05-11,93.23,Medium,Active
+SUP0304,Moore PLC,Vietnam,Asia,Mechanical Components,2008-07-18,92.27,Medium,Active
+SUP0305,"Miller, Ramos and Coleman",Spain,Europe,Industrial Equipment,2008-06-13,87.85,Medium,Active
+SUP0306,Nelson-Fischer,United Kingdom,Europe,Electrical Components,2021-10-18,88.82,Medium,Active
+SUP0307,Jordan-Campbell,Egypt,Africa,Automotive Parts,2010-08-18,96.94,Low,Active
+SUP0308,"Estrada, Williams and Foster",Malaysia,Asia,Mechanical Components,2023-04-25,83.86,High,Active
+SUP0309,Harris and Sons,Italy,Europe,Mechanical Components,2008-08-14,91.83,Medium,Active
+SUP0310,Roberts-Wilson,Australia,Oceania,Electrical Components,2011-06-05,86.58,Medium,Active
+SUP0311,"Jordan, Anderson and Patel",Germany,Europe,Industrial Equipment,2023-09-06,86.48,Medium,Active
+SUP0312,"Hansen, Barnett and Gomez",Egypt,Africa,Industrial Equipment,2014-08-02,95.69,Low,Active
+SUP0313,"Williams, Smith and Morse",Egypt,Africa,Automotive Parts,2020-04-07,93.78,Medium,Active
+SUP0314,"Patterson, Sullivan and Bowman",Australia,Oceania,Automotive Parts,2017-05-29,93.69,Medium,Active
+SUP0315,Sullivan LLC,France,Europe,Electrical Components,2016-08-09,97.14,Low,Active
+SUP0316,"Stevens, Norris and Cox",Poland,Europe,Packaging,2012-08-08,88.15,Medium,Active
+SUP0317,Sanchez PLC,UAE,Middle East,Electrical Components,2021-08-13,92.77,Medium,Active
+SUP0318,"Miller, Harrell and Reese",Malaysia,Asia,Electrical Components,2020-05-19,85.83,High,Active
+SUP0319,Maxwell-Jones,India,Asia,Automotive Parts,2014-04-18,90.27,Medium,Active
+SUP0320,"Hicks, Bullock and Bailey",UAE,Middle East,Electrical Components,2010-08-21,87.09,Medium,Active
+SUP0321,Garcia LLC,Italy,Europe,Mechanical Components,2011-10-13,88.68,Medium,Inactive
+SUP0322,Morrison Ltd,Spain,Europe,Mechanical Components,2013-06-20,92.17,Medium,Inactive
+SUP0323,Bean Ltd,United Kingdom,Europe,Chemicals,2009-04-27,82.27,High,Inactive
+SUP0324,Webster-Wolf,Australia,Oceania,Automotive Parts,2023-07-27,100.0,Low,Active
+SUP0325,"Glass, Cunningham and Reid",Vietnam,Asia,Automotive Parts,2022-01-11,80.96,High,Active
+SUP0326,"Stewart, Gonzales and Harrison",China,Asia,Electrical Components,2017-10-02,79.5,High,Active
+SUP0327,Vargas-Bell,Australia,Oceania,Mechanical Components,2017-01-22,96.11,Low,Active
+SUP0328,Murray-Johnson,Bangladesh,Asia,Industrial Equipment,2009-04-13,93.54,Medium,Active
+SUP0329,Jones-Lin,Germany,Europe,Electrical Components,2019-04-21,92.37,Medium,Active
+SUP0330,"Wheeler, Cruz and Carpenter",Brazil,South America,Chemicals,2009-10-30,92.4,Medium,Active
+SUP0331,Stout-Armstrong,Australia,Oceania,Electrical Components,2008-02-25,87.91,Medium,Active
+SUP0332,Jacobs-Mason,Germany,Europe,Automotive Parts,2013-02-28,81.72,High,Active
+SUP0333,Garcia-Nolan,Australia,Oceania,Electronic Components,2008-11-10,88.53,Medium,Active
+SUP0334,"Miller, Lucas and Williams",Malaysia,Asia,Industrial Equipment,2018-06-11,83.26,High,Active
+SUP0335,Warren-Bishop,Malaysia,Asia,Electrical Components,2021-08-26,94.83,Low,Active
+SUP0336,Hardin-Hughes,Vietnam,Asia,Electronic Components,2019-02-20,86.97,Medium,Active
+SUP0337,"Harper, Mccormick and Holland",Poland,Europe,Industrial Equipment,2018-04-09,82.22,High,Active
+SUP0338,Davis-Gregory,China,Asia,Raw Materials,2008-12-31,85.75,High,Active
+SUP0339,Cummings-Douglas,Indonesia,Asia,Electrical Components,2016-06-04,90.89,Medium,Active
+SUP0340,Miller-Alvarado,Japan,Asia,Electrical Components,2011-11-15,84.05,High,Active
+SUP0341,Ponce-Hale,Canada,North America,Mechanical Components,2018-08-29,82.24,High,Active
+SUP0342,Larson Inc,South Korea,Asia,Electrical Components,2020-02-04,89.71,Medium,Active
+SUP0343,"Bennett, Conner and Li",Mexico,North America,Automotive Parts,2017-04-16,89.71,Medium,Active
+SUP0344,Lucas Group,Canada,North America,Automotive Parts,2024-08-31,84.45,High,Active
+SUP0345,Smith-Parker,Brazil,South America,Industrial Equipment,2024-01-22,84.7,High,Active
+SUP0346,Meza-Tucker,Argentina,South America,Automotive Parts,2014-01-16,89.62,Medium,Active
+SUP0347,Moore LLC,Indonesia,Asia,Mechanical Components,2014-06-19,77.86,High,Active
+SUP0348,"Wise, Conley and Stephenson",Bangladesh,Asia,Chemicals,2010-03-13,78.15,High,Active
+SUP0349,"Rogers, Miranda and Anderson",Canada,North America,Electrical Components,2008-01-16,82.97,High,Active
+SUP0350,Martin Ltd,UAE,Middle East,Industrial Equipment,2019-07-29,86.51,Medium,Active
+SUP0351,"Kim, Jenkins and Rhodes",Singapore,Asia,Automotive Parts,2012-05-22,90.18,Medium,Inactive
+SUP0352,Bishop-Goodwin,Vietnam,Asia,Chemicals,2014-11-02,98.33,Low,Active
+SUP0353,Ferguson LLC,Canada,North America,Industrial Equipment,2022-01-12,94.0,Low,Active
+SUP0354,Richardson PLC,China,Asia,Electrical Components,2022-09-18,86.88,Medium,Inactive
+SUP0355,Hammond-Strickland,Thailand,Asia,Raw Materials,2021-09-30,87.87,Medium,Active
+SUP0356,"Barnes, Martin and Gonzalez",Mexico,North America,Industrial Equipment,2023-11-13,80.98,High,Active
+SUP0357,Williams-Castillo,Turkey,Middle East,Chemicals,2011-06-19,87.87,Medium,Active
+SUP0358,"Villa, Dawson and Black",Malaysia,Asia,Industrial Equipment,2019-05-22,85.98,High,Active
+SUP0359,Miller-Martin,Argentina,South America,Mechanical Components,2010-12-31,90.26,Medium,Active
+SUP0360,"Hernandez, Kim and Potts",Brazil,South America,Raw Materials,2022-01-16,82.21,High,Active
+SUP0361,Wilkerson-Arias,Indonesia,Asia,Raw Materials,2014-04-24,91.64,Medium,Active
+SUP0362,Sanders LLC,Canada,North America,Mechanical Components,2020-11-15,98.73,Low,Active
+SUP0363,Vang-Brooks,Bangladesh,Asia,Chemicals,2014-10-12,87.24,Medium,Active
+SUP0364,Galvan-Combs,Saudi Arabia,Middle East,Packaging,2007-09-19,90.81,Medium,Active
+SUP0365,Taylor LLC,Japan,Asia,Chemicals,2018-03-01,92.83,Medium,Active
+SUP0366,"Guerra, Blake and Harrison",United Kingdom,Europe,Industrial Equipment,2022-10-31,85.19,High,Active
+SUP0367,Smith and Sons,Egypt,Africa,Automotive Parts,2006-12-08,89.57,Medium,Active
+SUP0368,"Bentley, Lynch and Henderson",South Africa,Africa,Chemicals,2011-11-05,88.09,Medium,Active
+SUP0369,Turner Inc,South Africa,Africa,Electronic Components,2016-07-23,88.68,Medium,Active
+SUP0370,Fowler-Dean,Japan,Asia,Packaging,2014-11-14,82.59,High,Active
+SUP0371,Copeland Group,Australia,Oceania,Electrical Components,2008-11-22,88.17,Medium,Active
+SUP0372,Chen PLC,Australia,Oceania,Chemicals,2024-12-29,91.49,Medium,Active
+SUP0373,"Thomas, Patterson and Mendez",Bangladesh,Asia,Raw Materials,2014-12-27,98.16,Low,Active
+SUP0374,"Butler, Beck and Miller",Thailand,Asia,Automotive Parts,2014-12-10,94.71,Low,Active
+SUP0375,Ashley PLC,France,Europe,Industrial Equipment,2019-01-10,100.0,Low,Active
+SUP0376,"Spencer, Myers and Harrison",Canada,North America,Chemicals,2024-01-07,82.63,High,Active
+SUP0377,King-Smith,Vietnam,Asia,Automotive Parts,2019-12-02,94.11,Low,Active
+SUP0378,Allen-Sandoval,China,Asia,Chemicals,2009-01-20,89.28,Medium,Active
+SUP0379,"Moss, Cook and Williams",Mexico,North America,Electronic Components,2010-04-14,100.0,Low,Active
+SUP0380,Li-Thompson,Brazil,South America,Industrial Equipment,2025-05-02,82.34,High,Active
+SUP0381,"Mendoza, White and Taylor",Brazil,South America,Mechanical Components,2022-07-26,82.12,High,Active
+SUP0382,Carter Inc,India,Asia,Industrial Equipment,2022-04-30,83.8,High,Active
+SUP0383,Stewart LLC,Spain,Europe,Packaging,2013-07-17,73.13,Critical,Active
+SUP0384,Hays-Daniels,United States,North America,Automotive Parts,2024-04-16,84.32,High,Active
+SUP0385,Mullins and Sons,France,Europe,Electrical Components,2015-05-18,82.69,High,Active
+SUP0386,Atkins-Williams,Canada,North America,Mechanical Components,2016-06-28,89.05,Medium,Active
+SUP0387,Martinez-Richardson,Netherlands,Europe,Automotive Parts,2018-01-19,90.39,Medium,Active
+SUP0388,"Gonzales, Huber and Morgan",Mexico,North America,Industrial Equipment,2020-05-14,100.0,Low,Active
+SUP0389,Holt-Richardson,India,Asia,Packaging,2013-02-10,94.65,Low,Active
+SUP0390,Owen-Acosta,Poland,Europe,Packaging,2024-06-04,83.96,High,Active
+SUP0391,Morrison-Short,Australia,Oceania,Chemicals,2009-06-10,81.71,High,Active
+SUP0392,Morris-Miller,United States,North America,Chemicals,2025-04-25,91.44,Medium,Active
+SUP0393,Griffin-Robbins,India,Asia,Packaging,2016-10-25,78.76,High,Active
+SUP0394,"Wallace, West and Acosta",Vietnam,Asia,Automotive Parts,2012-06-04,100.0,Low,Active
+SUP0395,"Bolton, Hill and Whitney",Bangladesh,Asia,Raw Materials,2018-10-02,96.26,Low,Active
+SUP0396,Lambert Group,India,Asia,Packaging,2008-09-15,84.72,High,Active
+SUP0397,"Owen, Shelton and Cisneros",Japan,Asia,Packaging,2019-02-13,76.01,High,Active
+SUP0398,"Gregory, Kim and Martinez",Bangladesh,Asia,Packaging,2011-08-13,97.48,Low,Active
+SUP0399,"Diaz, Reyes and Bradley",Canada,North America,Packaging,2014-10-14,87.2,Medium,Active
+SUP0400,"Cole, Watson and Wallace",Germany,Europe,Raw Materials,2011-12-23,96.66,Low,Active
+SUP0401,"Taylor, Richardson and Edwards",Thailand,Asia,Mechanical Components,2009-05-16,76.84,High,Active
+SUP0402,Horne Inc,Japan,Asia,Mechanical Components,2016-03-28,83.8,High,Active
+SUP0403,Holmes-Mcintyre,Vietnam,Asia,Raw Materials,2013-02-01,88.04,Medium,Active
+SUP0404,Hampton-Padilla,Japan,Asia,Packaging,2010-10-06,88.33,Medium,Active
+SUP0405,"Mitchell, Hendricks and Henry",Canada,North America,Mechanical Components,2014-01-21,84.85,High,Active
+SUP0406,Farrell Group,Thailand,Asia,Electrical Components,2010-12-06,92.36,Medium,Active
+SUP0407,"Wallace, Miller and Fleming",United Kingdom,Europe,Electronic Components,2012-08-18,80.53,High,Active
+SUP0408,"Reed, Brown and Daniels",Spain,Europe,Chemicals,2017-08-18,87.0,Medium,Active
+SUP0409,Joseph Ltd,United Kingdom,Europe,Automotive Parts,2016-12-17,88.84,Medium,Active
+SUP0410,Hicks-Martinez,United Kingdom,Europe,Raw Materials,2012-09-05,91.6,Medium,Active
+SUP0411,Young Group,Saudi Arabia,Middle East,Industrial Equipment,2013-08-05,92.98,Medium,Active
+SUP0412,Spencer-Wood,Poland,Europe,Raw Materials,2007-08-26,80.13,High,Active
+SUP0413,Salazar Inc,India,Asia,Electrical Components,2025-07-11,77.26,High,Inactive
+SUP0414,Sanders-Love,Netherlands,Europe,Automotive Parts,2008-12-29,96.94,Low,Active
+SUP0415,"Jenkins, Ortiz and Andrews",UAE,Middle East,Electronic Components,2023-01-16,90.33,Medium,Active
+SUP0416,Day-Cole,Bangladesh,Asia,Mechanical Components,2011-01-08,82.76,High,Active
+SUP0417,Anderson-Calderon,Bangladesh,Asia,Chemicals,2024-05-11,98.86,Low,Active
+SUP0418,"Matthews, Saunders and Anderson",Italy,Europe,Industrial Equipment,2025-07-07,88.81,Medium,Inactive
+SUP0419,Guerra PLC,Poland,Europe,Electrical Components,2023-11-13,96.26,Low,Active
+SUP0420,Martin-Morris,Vietnam,Asia,Electronic Components,2011-12-18,88.47,Medium,Active
+SUP0421,Meza-Stone,Australia,Oceania,Packaging,2014-06-06,100.0,Low,Active
+SUP0422,King Ltd,Netherlands,Europe,Packaging,2016-06-03,100.0,Low,Active
+SUP0423,Martinez-Turner,Netherlands,Europe,Automotive Parts,2025-07-01,86.26,Medium,Active
+SUP0424,Shaw and Sons,Italy,Europe,Electronic Components,2024-11-27,94.8,Low,Active
+SUP0425,Hopkins Ltd,Germany,Europe,Industrial Equipment,2012-01-02,92.52,Medium,Active
+SUP0426,"Williams, Shields and Miller",France,Europe,Automotive Parts,2018-03-30,97.58,Low,Inactive
+SUP0427,"Clark, Armstrong and Montgomery",Bangladesh,Asia,Electronic Components,2015-10-06,81.25,High,Active
+SUP0428,Small-Gardner,Bangladesh,Asia,Chemicals,2007-10-15,92.8,Medium,Active
+SUP0429,Sanchez-Aguirre,South Africa,Africa,Raw Materials,2017-01-13,95.41,Low,Active
+SUP0430,Chavez-Barker,Canada,North America,Chemicals,2020-07-28,75.69,High,Inactive
+SUP0431,Perry-Marshall,Argentina,South America,Chemicals,2012-02-19,79.72,High,Active
+SUP0432,"Thomas, Hensley and Flores",Australia,Oceania,Electrical Components,2018-05-01,73.73,Critical,Active
+SUP0433,Anderson-Wood,Australia,Oceania,Raw Materials,2018-07-05,86.11,Medium,Active
+SUP0434,Allen-Martinez,Indonesia,Asia,Chemicals,2010-05-15,93.02,Medium,Active
+SUP0435,Thomas Inc,Vietnam,Asia,Packaging,2022-01-20,98.52,Low,Active
+SUP0436,Lin-Barnes,Japan,Asia,Packaging,2016-08-18,88.52,Medium,Active
+SUP0437,Peck-Griffith,Australia,Oceania,Chemicals,2012-03-10,99.4,Low,Active
+SUP0438,Jimenez PLC,Vietnam,Asia,Packaging,2013-03-20,78.34,High,Active
+SUP0439,Koch-Jimenez,South Africa,Africa,Raw Materials,2022-08-22,76.08,High,Active
+SUP0440,Wagner-Levy,Mexico,North America,Industrial Equipment,2009-10-27,87.61,Medium,Active
+SUP0441,"Gomez, Williams and Simpson",China,Asia,Industrial Equipment,2014-01-28,90.69,Medium,Active
+SUP0442,Herrera-Boone,Germany,Europe,Mechanical Components,2022-10-08,87.77,Medium,Active
+SUP0443,Khan Ltd,Australia,Oceania,Electrical Components,2021-06-02,73.53,Critical,Active
+SUP0444,Diaz-Morales,Bangladesh,Asia,Raw Materials,2019-03-15,87.38,Medium,Active
+SUP0445,Tran-Jones,Bangladesh,Asia,Packaging,2013-05-19,78.87,High,Active
+SUP0446,Duran-Ramirez,Italy,Europe,Chemicals,2023-11-30,92.69,Medium,Active
+SUP0447,Hester Group,South Korea,Asia,Chemicals,2010-10-19,90.57,Medium,Active
+SUP0448,Grant-Diaz,Turkey,Middle East,Electronic Components,2019-06-15,81.42,High,Active
+SUP0449,Morrison Group,India,Asia,Raw Materials,2011-08-31,84.4,High,Active
+SUP0450,Williams and Sons,Argentina,South America,Automotive Parts,2023-10-09,80.59,High,Active
+SUP0451,Stone-Hernandez,Argentina,South America,Automotive Parts,2018-02-01,87.56,Medium,Active
+SUP0452,Murphy PLC,Netherlands,Europe,Electronic Components,2024-04-18,94.69,Low,Active
+SUP0453,Long PLC,France,Europe,Industrial Equipment,2017-08-05,81.1,High,Active
+SUP0454,"Rogers, Clayton and Patel",Argentina,South America,Automotive Parts,2016-12-08,91.53,Medium,Active
+SUP0455,Cabrera-Richardson,United Kingdom,Europe,Raw Materials,2016-12-15,84.29,High,Active
+SUP0456,Silva-Robles,Malaysia,Asia,Raw Materials,2010-06-27,82.45,High,Active
+SUP0457,"Wells, Coffey and Patton",China,Asia,Packaging,2007-08-31,87.25,Medium,Active
+SUP0458,"Williams, Castillo and Warren",Turkey,Middle East,Industrial Equipment,2014-07-01,80.75,High,Active
+SUP0459,Underwood and Sons,Indonesia,Asia,Raw Materials,2019-09-10,84.12,High,Active
+SUP0460,"Vaughan, Rodriguez and Smith",Spain,Europe,Mechanical Components,2007-10-31,79.61,High,Active
+SUP0461,Hernandez-Vaughn,Japan,Asia,Packaging,2017-06-06,100.0,Low,Active
+SUP0462,"Hampton, Knapp and Salas",United Kingdom,Europe,Chemicals,2020-09-19,88.25,Medium,Active
+SUP0463,"Taylor, Clark and Nguyen",Bangladesh,Asia,Raw Materials,2008-11-16,83.1,High,Active
+SUP0464,"Bennett, Frye and Stevens",Netherlands,Europe,Electronic Components,2023-01-12,89.5,Medium,Active
+SUP0465,Payne-Lowe,Australia,Oceania,Electrical Components,2024-11-23,87.21,Medium,Active
+SUP0466,"Washington, Bernard and Ramirez",Canada,North America,Electrical Components,2015-10-02,86.45,Medium,Active
+SUP0467,David LLC,Indonesia,Asia,Raw Materials,2016-11-29,92.3,Medium,Active
+SUP0468,"Clark, Bush and Stewart",Germany,Europe,Automotive Parts,2016-08-03,93.3,Medium,Active
+SUP0469,"Peck, Pope and Hill",Egypt,Africa,Chemicals,2018-08-16,84.29,High,Active
+SUP0470,"Rhodes, James and Baird",Bangladesh,Asia,Electronic Components,2010-11-26,83.97,High,Active
+SUP0471,Roberts LLC,Malaysia,Asia,Electrical Components,2018-07-02,86.07,Medium,Active
+SUP0472,Bradshaw-Douglas,United Kingdom,Europe,Industrial Equipment,2009-06-12,71.89,Critical,Active
+SUP0473,Harris PLC,Saudi Arabia,Middle East,Chemicals,2023-01-21,77.39,High,Active
+SUP0474,"Horton, Taylor and Gilbert",Turkey,Middle East,Electronic Components,2015-12-25,97.57,Low,Active
+SUP0475,Williams PLC,United Kingdom,Europe,Chemicals,2014-11-24,99.51,Low,Active
+SUP0476,"Hall, Garcia and Rivera",France,Europe,Mechanical Components,2014-06-08,86.26,Medium,Active
+SUP0477,Maldonado and Sons,Malaysia,Asia,Industrial Equipment,2022-10-30,92.04,Medium,Active
+SUP0478,"Spence, Moore and Delgado",Singapore,Asia,Mechanical Components,2006-12-07,90.18,Medium,Active
+SUP0479,Santos-Avila,Turkey,Middle East,Electronic Components,2022-12-10,100.0,Low,Active
+SUP0480,Mitchell-Brown,South Korea,Asia,Automotive Parts,2016-07-12,95.84,Low,Inactive
+SUP0481,"Andrews, Nichols and Sharp",Poland,Europe,Automotive Parts,2009-10-19,87.1,Medium,Active
+SUP0482,Butler and Sons,Argentina,South America,Chemicals,2008-01-10,81.31,High,Active
+SUP0483,French-Lopez,Australia,Oceania,Chemicals,2007-12-29,76.75,High,Inactive
+SUP0484,Smith PLC,Japan,Asia,Automotive Parts,2016-08-09,89.42,Medium,Active
+SUP0485,Mitchell-Hays,Poland,Europe,Industrial Equipment,2010-05-29,82.71,High,Active
+SUP0486,"Snyder, Mays and Rosales",Canada,North America,Electronic Components,2025-03-29,78.04,High,Active
+SUP0487,Lee-Rodriguez,Indonesia,Asia,Raw Materials,2022-09-06,83.47,High,Active
+SUP0488,"Stevens, Scott and Lopez",India,Asia,Industrial Equipment,2012-04-14,80.43,High,Active
+SUP0489,Bradley-Todd,Bangladesh,Asia,Electronic Components,2018-03-24,99.81,Low,Active
+SUP0490,"Chase, Prince and Wilcox",Mexico,North America,Electrical Components,2012-09-22,94.17,Low,Active
+SUP0491,Miller-Caldwell,Poland,Europe,Raw Materials,2024-04-15,87.94,Medium,Active
+SUP0492,Woods and Sons,Poland,Europe,Packaging,2013-01-16,98.36,Low,Active
+SUP0493,Reyes-Griffin,Germany,Europe,Mechanical Components,2006-12-27,88.54,Medium,Active
+SUP0494,Turner-Sharp,India,Asia,Chemicals,2015-11-04,81.97,High,Active
+SUP0495,Valdez-Schwartz,UAE,Middle East,Mechanical Components,2007-02-23,98.66,Low,Active
+SUP0496,"Wilson, Parker and Sullivan",India,Asia,Automotive Parts,2008-11-14,91.77,Medium,Active
+SUP0497,"Carrillo, Vaughn and Fowler",Poland,Europe,Mechanical Components,2023-11-09,80.74,High,Active
+SUP0498,Mendez-Robinson,France,Europe,Industrial Equipment,2016-10-17,86.67,Medium,Active
+SUP0499,Hernandez-Adkins,Italy,Europe,Chemicals,2011-04-20,81.87,High,Active
+SUP0500,Miles-Durham,Argentina,South America,Chemicals,2019-06-21,78.32,High,Active
